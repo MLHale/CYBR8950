@@ -34,6 +34,14 @@ All classroom activities will take place in PKI room 157 unless otherwise noted 
 * TBA
 
 ## Projects
+The structure of the course accomodates two types of projects on two tracks.
+1. Track 1: System Design, Development, and Security
+In this track students will design, build, and secure a new full-fledged system or create a new, non-trivial, component for an existing system or product. Special attention will be paid towards open source environments. Relevant artifacts generated will include design documentation (use cases, architectures, interaction diagrams, etc), system/component code, unit/acceptance tests, and testing results
+2. Track 2: System Analysis and Evaluation
+In this track students will select an existing product or system and rigorusly evaluate it using a combination of system, network, and software testing methods. Relevant artifacts generated will include reversed design docs (i.e. an understanding of how the product works), vulernability surface analysis documentation, test cases, and analysis results. 
+
+Both tracks will also emphasize a certification and accreditation portion that tasks students with implementing or assessing security controls from standards documents (such as the NIST 800-53).
+
 [Capstone Milestone 1 rubric]() - TBA
 
 [Capstone Milestone 2 rubric]() - TBA
