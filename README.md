@@ -69,6 +69,10 @@ Both tracks will also emphasize a certification and accreditation portion that t
 1. Getting up to speed
  * [Virtualization primer](/modules/virtualization-primer.md)
  * [Github primer](/modules/github-primer.md)
+ * Intro to the class and survey of security issues in different domains/sectors ([pdf](lectures/lecture1.pdf))
+    * Web app threat landscape
+    * Mobile app threat landscape
+    * SCADA/ICS threats
 1. Review of software engineering 
  * Software Architectures
  * Software design principles
