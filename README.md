@@ -55,6 +55,8 @@ Both tracks will also emphasize a certification and accreditation portion that t
 1. Introduction to the course
  * [Virtualization primer](/modules/virtualization-primer.md)
  * [Github primer](/modules/github-primer.md)
+1. Project discussion and planning
+ * Project idea template: [docx](/modules/project-proposal-template.docx)
 1. Team interaction and project management
  * Agile methods for development and assessment
  * Using collaboration tools
