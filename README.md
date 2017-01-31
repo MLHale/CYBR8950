@@ -48,7 +48,10 @@ Both tracks will also emphasize a certification and accreditation portion that t
 * [Capstone Milestone 2 rubric]() - TBA
 * [Capstone Final Milestone rubric]() - TBA
 
-2017 Projects and Final Presentations
+### Project Selection
+Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo.gl/forms/12rmlMTkVjG9nIqn2) to rank your project selection preferences. The top projects will be selected for the class and you will be given your preferred choice if possible.
+
+### 2017 Projects and Final Presentations
 * Your work goes here
 
 ## Labs
