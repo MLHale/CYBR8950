@@ -80,7 +80,7 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
     * Web app threat landscape
     * Mobile app threat landscape
     * SCADA/ICS threats
-1. Review of software engineering 
+1. Review of software engineering ([PDF-Part1](/lectures/lecture2.pdf), [PDF-Part2](/lectures/lecture3.pdf))
  * Software Architectures
  * Software design principles
  * Security in the Software development lifecycle
