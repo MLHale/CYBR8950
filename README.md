@@ -53,8 +53,34 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
 
 ![capstone-img](/modules/img/capstone-projects.png)
 
-### 2017 Projects and Final Presentations
-* Your work goes here
+### 2017 Project teams
+#### Team Projects
+* PLC Hacking
+ * Gary Roth 
+ * Richard Tanner
+ * Daniel Ritter
+* Forensic Tool Deficiency Analysis
+ * Casey Branan 
+ * Preston Wells
+ * Brandon Franklin
+* Analyzing and Penetration Testing an Amazon Echo Dot
+ * James Autry
+ * Paul Stratman
+ * Tim Gekas
+ 
+#### Solo Projects 
+* Data Loss Prevention System
+ * Leonora Gerlock
+* DNS Intrusion Detection System
+ * Matthew Faltys
+* (Airlock) - a P2P Encrypted Chat and Collaboration tool
+ * Darian Lepert
+* Windows Native Plugin for SFTP interaction
+ * Chandler Huston
+* Meta Shopping Cart
+ * Yaqoob Al Farsi
+ * Al Salt Al Kharusi
+
 
 ## Labs
 1. Introduction to the course
