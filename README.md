@@ -65,8 +65,12 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
  * Brandon Franklin
 * Analyzing and Penetration Testing an Amazon Echo Dot
  * James Autry
- * Paul Stratman
+ * Matthew Sutton
  * Tim Gekas
+* Open Source Hypervisor Analysis and Evaluation
+ * Jesse Hembree
+ * Afnan Albokhari
+ * Paul Stratman
  
 #### Solo Projects 
 * Data Loss Prevention System
