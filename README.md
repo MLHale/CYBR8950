@@ -92,7 +92,7 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
  * [Github primer](/modules/github-primer.md)
 1. Project discussion and planning
  * Project idea template: [docx](/modules/project-proposal-template.docx?raw=true)
-1. Team interaction and project management
+1. Team interaction and project management (See in-class materials in lecture 4, markdown writeup TBA)
  * Agile methods for development and assessment
  * Using collaboration tools
  * Keeping track of efforts
@@ -106,22 +106,23 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
 1. Getting up to speed
  * [Virtualization primer](/modules/virtualization-primer.md)
  * [Github primer](/modules/github-primer.md)
- * Intro to the class and survey of security issues in different domains/sectors ([pdf](lectures/lecture1.pdf))
+ * Intro to the class and survey of security issues in different domains/sectors ([Lecture 1 pdf](lectures/lecture1.pdf))
     * Web app threat landscape
     * Mobile app threat landscape
     * SCADA/ICS threats
-1. Review of software engineering ([PDF-Part1](/lectures/lecture2.pdf), [PDF-Part2](/lectures/lecture3.pdf))
+1. Review of software engineering ([Lecture 2 PDF-Part1](/lectures/lecture2.pdf), [Lecture 3 PDF](/lectures/lecture3.pdf))
  * Software Architectures
  * Software design principles
  * Security in the Software development lifecycle
-1. Review of certification and assessment
- * Security controls, coutermeasures, etc
- * Standards Documents: NIST SP800-53, FIPS200, 800-33, etc
-1. Test-driven Development and assessment
+1.
+1. Test-driven Development and assessment ([Lecture 4 pdf](lectures/lecture4.pdf))
  * Unit testing
  * Acceptance critera
  * think-test-build-test-repeat
  * Blackbox testing
+1. Review of certification and assessment
+ * Security controls, coutermeasures, etc
+ * Standards Documents: NIST SP800-53, FIPS200, 800-33, etc
  * Assessment tools
 1. Time to be creative
  * Come up with your own project idea or implement/assess something for a friend/family member or community organization
