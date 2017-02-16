@@ -92,7 +92,7 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
  * [Github primer](/modules/github-primer.md)
 1. Project discussion and planning
  * Project idea template: [docx](/modules/project-proposal-template.docx?raw=true)
-1. Team interaction and project management (See in-class materials in lecture 4, markdown writeup TBA)
+1. Team interaction and project management (See in-class materials in [Lecture 4 pdf](lectures/lecture4.pdf))
  * Agile methods for development and assessment
  * Using collaboration tools
  * Keeping track of efforts
@@ -110,7 +110,7 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
     * Web app threat landscape
     * Mobile app threat landscape
     * SCADA/ICS threats
-1. Review of software engineering ([Lecture 2 PDF-Part1](/lectures/lecture2.pdf), [Lecture 3 PDF](/lectures/lecture3.pdf))
+1. Review of software engineering ([Lecture 2](/lectures/lecture2.pdf), [Lecture 3 PDF](/lectures/lecture3.pdf))
  * Software Architectures
  * Software design principles
  * Security in the Software development lifecycle
@@ -140,7 +140,7 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
 ### Grading Breakdown (due dates are tentative)
  * (10%) Participation score (meetings, short tutorial participation, etc)
  * (20%) Labs - TBA
- * (20%) Semester Project Milestone 1 - (rubric TBA)
+ * (20%) Semester Project Milestone 1 - ([rubric](/projects/milestone1.md))
  * (20%) Semester Project Milestone 2 - (rubric TBA)
  * (30%) Semester Project Milestone Final - (rubric TBA)
 
