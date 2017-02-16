@@ -13,7 +13,7 @@ This project milestone tasks you with identifying project requirements, analyzin
 1. [Proposed project timeline](#proposed-project-timeline) - When will you do it?
  * Define the tasks and expected time to completion
  * Create and submit a gantt chart
-1. [Project-oriented risks list](#risks-list) - What could go wrong in the project and why?
+1. [Project-oriented risk list](#risk-list) - What could go wrong in the project and why?
 1. [Application requirements](#application-requirements) - What does your app/product do?
  * User stories
  * Use cases
