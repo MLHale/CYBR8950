@@ -47,7 +47,7 @@ Your summaries will be graded as follows following:
 An important part of project planning is identifying tasks to be completed to address project goals and arranging those tasks in such a way that they can be completed within a (typically) fixed interval of time. In this class, that interval is the length of the semester. For milestone one, prepare an overall project timeline that identifies large tasks to be completed, estimates time of completion, and arranges those tasks chronologically over the project lifespan.
 
 #### Submission materials
-You should create a gantt chart and identify *major* tasks that span the rest of the semester. I suggest using a gantt chart creation tool such as ganttpro - but you may feel free to create one in a tool of your choice. Once your chart is created, save it as an image file and display it in your README.md file, beneath your executive summary on your github repo.
+You should create a gantt chart and identify *major* tasks that span the rest of the semester. I suggest using a gantt chart creation tool such as [ganttpro](https://ganttpro.com) - but you may feel free to create one in a tool of your choice. Once your chart is created, save it as an image file and display it in your README.md file, beneath your executive summary on your github repo.
 
 #### Grading Criteria
 Your gantt chart will be graded as follows

@@ -29,10 +29,6 @@ All classroom activities will take place in PKI room 157 unless otherwise noted 
 * [UNO Cloud Deployment Environments](http://view.unomaha.edu)
 * Your laptop (capable of running programming environments or needed dev/analysis tools)
 
-
-### Texts
-* TBA
-
 ## Projects
 The structure of the course accomodates two types of projects on two tracks.
 
@@ -44,7 +40,7 @@ In this track students will select an existing product or system and rigorusly e
 
 Both tracks will also emphasize a certification and accreditation portion that tasks students with implementing or assessing security controls from standards documents (such as the NIST 800-53).
 
-* [Capstone Milestone 1 rubric]() - TBA
+* [Capstone Milestone 1 rubric](/projects/milestone1.md) - Announced 2/16/17
 * [Capstone Milestone 2 rubric]() - TBA
 * [Capstone Final Milestone rubric]() - TBA
 
@@ -70,7 +66,6 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
 * Open Source Hypervisor Analysis and Evaluation
  * Jesse Hembree
  * Afnan Albokhari
- * Paul Stratman
  
 #### Solo Projects 
 * Data Loss Prevention System
@@ -81,7 +76,9 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
  * Darian Lepert
 * Windows Native Plugin for SFTP interaction
  * Chandler Huston
-* Meta Shopping Cart
+* Android Process inspector
+ * Paul Stratman
+* Secure Restaurant Ordering App
  * Yaqoob Al Farsi
  * Al Salt Al Kharusi
 
