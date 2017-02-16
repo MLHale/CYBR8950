@@ -123,9 +123,7 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
  * Assessment tools
 1. Time to be creative
  * Come up with your own project idea or implement/assess something for a friend/family member or community organization
- * [Milestone 1](#projects): TBA
- * [Milestone 2](#projects): TBA
- * [Final Milestone](#projects): TBA
+ * See [Projects](#projects) area
 
 ## Syllabus
 ### Date/Time: Thursday 5:30pm – 8:10pm
