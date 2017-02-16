@@ -19,6 +19,7 @@ This project milestone tasks you with identifying project requirements, analyzin
  * Use cases
 1. [Resources/Technology needed](#resources-needed) - What do you need to be successful?
 1. [First Sprint Plan](#first-sprint-plan) - Create the first plan on trello
+1. [Note about Teamwork and Group projects](#teamwork)
 
 ### Executive Project Summary
 An exectuive summary should be evocative. It should capture a reader and make them want to be a part of your idea. In this milestone you will write an exective summary that defines the goals and objectives of your project in language that is easily readable and mental-image evoking. I (or anyone else) should be able to read your executive summary and instantly know a) what you are doing and b) why it is important. Executive summaries should be exciting and interesting. It is the first (and likely the only) chance for you to engage your reader and, in a real world setting, would determine if your product gets funded. An executive summary does not need technical detail to describe interesting functionality. You should mention your product by name without using phrases such as "the team", "the class", "the instructor", "project 2" etc.
