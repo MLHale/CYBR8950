@@ -27,6 +27,7 @@ An exectuive summary should be evocative. It should capture a reader and make th
 You should submit a summary document (in markdown format) on your github project repo. Call the file README.md and place it in the top-level directory of your github project.
 
 It should contain the following:
+
 1. A problem statement identifying relevant issues in society, a particular industry/sector, or with specific technologies.
 1. Project goals and objectives in a numbered or bulleted list that you proposed to undertake to address the identified problem. Clearly identify what you are doing at a high level with minimal technical detail.
 1. The merit of accomplishing the project goals and objectives in terms of how it helps end users, society, or particular industries/sectors.
@@ -50,7 +51,8 @@ An important part of project planning is identifying tasks to be completed to ad
 You should create a gantt chart and identify *major* tasks that span the rest of the semester. I suggest using a gantt chart creation tool such as [ganttpro](https://ganttpro.com) - but you may feel free to create one in a tool of your choice. Once your chart is created, save it as an image file and display it in your README.md file, beneath your executive summary on your github repo.
 
 #### Grading Criteria
-Your gantt chart will be graded as follows
+Your gantt chart will be graded as follows:
+
 | | Meets expectations (9-10) | Some Issues (6-8) | Does not meet expectations (0-5)|
 |---|---|---|---|
 | Identifies major tasks | Major tasks addressing your objectives (from the executive summary) are identified by name. Set of tasks is appropriate to the objectives and time frame. | The set of tasks is not scoped well (too much or too little) or they do not seem to address the objectives well. | No or few tasks are identified - or they are extremely poorly scoped. |
@@ -64,19 +66,21 @@ As you will probably discover, there are many things that can go wrong when work
 #### Submission materials
 You should prepare a risk list table and add it to your README.md file in your github project repo, beneath your Gantt chart. The table should use markdown syntax such as:
 
-```
+```markdown
 |Risk name (value)  | Impact     | Likelihood | Description |
 |-------------------|------------|------------|-------------|
 |Some risk (40) | 8 | 5 | Some description  |
 ```
 
 to generate github-displayable tables such as:
+
 |Risk name  | Impact     | Likelihood | Description |
 |-----------|------------|------------|-------------|
 |Some risk (40) | 8 | 5 | Some description  |
 
 #### Grading Criteria
 Your risk list will be graded as follows:
+
 | | Meets expectations (9-10) | Some Issues (6-8) | Does not meet expectations (0-5)|
 |---|---|---|---|
 |Impact| Each risk has an identified impact factor. Factor should be based on how significant the event would be towards the disruption of your project activities. | Some factors missing or unreasonable. | No factors identified or factors are completely unreasonable |
@@ -91,11 +95,11 @@ Requirements are extremely important for conducting a successful project - of ei
 ##### User stories
 For milestone 1, you should define the 5 most important user stories for your product (or the product you are assessing). Pay careful attention to structure the user stories as we discussed in lecture. Specifically, submit your user stories using the following template. Include them directly on, or as a link from, your github repo README.md file.
 
-As a **user/role, I want to **goal so I can **rationale. 
+As a **user/role**, I want to **goal** so I can **rationale**. 
 
 Markdown syntax for this is as follows:
 ```
-As a **user/role, I want to **goal so I can **rationale. 
+As a **user/role**, I want to **goal** so I can **rationale**. 
 ```
 
 For each user story, also define acceptance criteria. 
@@ -130,7 +134,7 @@ Every team needs *something* to pull off their project. Clearly identify the tec
 Under your requirements section in the README.md file in your github repo, clearly identify the technologies, products, and languages involved in your project. Include a table that identifies which team member will investigate each needed resource. Also include a column indicating whether or not material resources are needed from Dr. Hale.
 
 Use the following table structure.
-```
+```markdown
 |Resource  | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
 |Some resource| No | Bob | Some description  |
@@ -138,6 +142,7 @@ Use the following table structure.
 ```
 
 This will generate a table of the form:
+
 |Resource  | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
 |Some resource| No | Bob | Some description  |
@@ -145,6 +150,7 @@ This will generate a table of the form:
 
 #### Grading Criteria
 You will be graded as follows:
+
 || Meets expectations (9-10) | Some Issues (6-8) | Does not meet expectations (0-5)|
 |---|---|---|---|
 |Coverage| A reasonable set of resources are listed that are appropriate to your project.|Some missing critical resources that are needed but not listed. | Many critical resources are needed, but not listed.|
@@ -165,7 +171,8 @@ Lastly, it is important that you realize you are working on a TEAM (except for t
 Your final grade on the milestone is computed as follows:
 **team_grade** * **participation_factor** = **individual_grade**
 
-**participation_factor** is a number from .4 to 1 that is based on four measured participation factors.
+**participation_factor** is a number from .4 to 1 that is based on four measured participation factors:
+
 1. Contribution to the github repo
 1. Activity in the slack channel for your project
 1. Activity on Trello
