@@ -70,7 +70,7 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
 #### Solo Projects 
 * Data Loss Prevention System
  * Leonora Gerlock
-* DNS Intrusion Detection System
+* [DNS Intrusion Detection System](https://github.com/mfaltys/doic)
  * Matthew Faltys
 * (Airlock) - a P2P Encrypted Chat and Collaboration tool
  * Darian Lepert
