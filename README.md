@@ -41,7 +41,7 @@ In this track students will select an existing product or system and rigorusly e
 Both tracks will also emphasize a certification and accreditation portion that tasks students with implementing or assessing security controls from standards documents (such as the NIST 800-53).
 
 * [Capstone Milestone 1 rubric](/projects/milestone1.md) - Announced 2/16/17
-* [Capstone Milestone 2 rubric]() - TBA
+* [Capstone Milestone 2 rubric](/projects/milestone2.md) - Announced 3/8/17
 * [Capstone Final Milestone rubric]() - TBA
 
 ### Project Selection
@@ -93,10 +93,6 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
  * Agile methods for development and assessment
  * Using collaboration tools
  * Keeping track of efforts
-1. Testing methodologies
- * Unit testing
- * Blackbox testing
- * Assessment tools
 
 
 ## Class Topics
@@ -111,7 +107,6 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
  * Software Architectures
  * Software design principles
  * Security in the Software development lifecycle
-1.
 1. Test-driven Development and assessment ([Lecture 4 pdf](lectures/lecture4.pdf))
  * Unit testing
  * Acceptance critera
@@ -134,9 +129,9 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
 
 ### Grading Breakdown (due dates are tentative)
  * (10%) Participation score (meetings, short tutorial participation, etc)
- * (20%) Labs - TBA
+ * (20%) Labs
  * (20%) Semester Project Milestone 1 - ([rubric](/projects/milestone1.md))
- * (20%) Semester Project Milestone 2 - (rubric TBA)
+ * (20%) Semester Project Milestone 2 - ([rubric](/projects/milestone2.md))
  * (30%) Semester Project Milestone Final - (rubric TBA)
 
 Each project milestone will have a specific grading rubric that includes the core requirements for the project, any required intermediate milestone goals (such as short progress meetings with the instructor), the project due date, and the list of items that must be submitted. Each project will include a presentation component to be presented in class on the project due date. Projects build upon each other. The final Project is considered to be comprehensive. This means that <i>there is no final exam</i>. Final Project presentations will be presented on the day of the Final.
