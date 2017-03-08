@@ -44,6 +44,10 @@ Both tracks will also emphasize a certification and accreditation portion that t
 * [Capstone Milestone 2 rubric](/projects/milestone2.md) - Announced 3/8/17
 * [Capstone Final Milestone rubric]() - TBA
 
+#### Evaluation form
+For team projects, please use the evaluation form below to assess your teammates.
+[https://goo.gl/forms/QM1OAQ80tzGVv19I2](https://goo.gl/forms/QM1OAQ80tzGVv19I2)
+
 ### Project Selection
 Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo.gl/forms/12rmlMTkVjG9nIqn2) to rank your project selection preferences. The top projects will be selected for the class and you will be given your preferred choice if possible. Then groups will refine the ideas based on their collective vision.
 
