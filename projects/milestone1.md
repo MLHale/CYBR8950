@@ -180,3 +180,7 @@ Your final grade on the milestone is computed as follows:
 1. Team evaluations 
 
 If you do your work and participate, you will get the full team poitns (**participation_factor**=1), if you don't, you will get as little as 40% of the team points. This means that you can **FAIL** even if your team succeeds. - So don't sluff off.
+
+#### License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CYBER4580 and related works</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://faculty.ist.unomaha.edu/mlhale" property="cc:attributionName" rel="cc:attributionURL">Matt Hale</a> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
