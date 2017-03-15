@@ -116,7 +116,7 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
   - Acceptance critera
   - think-test-build-test-repeat
   - Blackbox testing
-- Review of certification and assessment
+- Review of certification and assessment ([Lecture 5 pdf](lectures/lecture5.pdf))
   - Security controls, coutermeasures, etc
   - Standards Documents: NIST SP800-53, FIPS200, 800-33, etc
   - Assessment tools
