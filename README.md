@@ -111,7 +111,7 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
   - Software Architectures
   - Software design principles
   - Security in the Software development lifecycle
-- Test-driven Development and assessment ([Lecture 4 pdf](lectures/lecture4.pdf))
+- Test-driven Development Practices ([Lecture 4 pdf](lectures/lecture4.pdf))
   - Unit testing
   - Acceptance critera
   - think-test-build-test-repeat
