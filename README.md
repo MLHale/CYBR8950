@@ -56,73 +56,73 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
 ### 2017 Project teams
 #### Team Projects
 * PLC Hacking
- * Gary Roth 
- * Richard Tanner
- * Daniel Ritter
+  * Gary Roth 
+  * Richard Tanner
+  * Daniel Ritter
 * Forensic Tool Deficiency Analysis
- * Casey Branan 
- * Preston Wells
- * Brandon Franklin
+  * Casey Branan 
+  * Preston Wells
+  * Brandon Franklin
 * Analyzing and Penetration Testing an Amazon Echo Dot
- * James Autry
- * Matthew Sutton
- * Tim Gekas
+  * James Autry
+  * Matthew Sutton
+  * Tim Gekas
 * Open Source Hypervisor Analysis and Evaluation
- * Jesse Hembree
- * Afnan Albokhari
+  * Jesse Hembree
+  * Afnan Albokhari
  
 #### Solo Projects 
 * Data Loss Prevention System
- * Leonora Gerlock
+  * Leonora Gerlock
 * DNS Intrusion Detection System
- * Matthew Faltys
+  * Matthew Faltys
 * (Airlock) - a P2P Encrypted Chat and Collaboration tool
- * Darian Lepert
+  * Darian Lepert
 * Windows Native Plugin for SFTP interaction
- * Chandler Huston
+  * Chandler Huston
 * Android Process inspector
- * Paul Stratman
+  * Paul Stratman
 * Secure Restaurant Ordering App
- * Yaqoob Al Farsi
- * Al Salt Al Kharusi
+  * Yaqoob Al Farsi
+  * Al Salt Al Kharusi
 
 
 ## Labs
-1. Introduction to the course
- * [Virtualization primer](/modules/virtualization-primer.md)
- * [Github primer](/modules/github-primer.md)
-1. Project discussion and planning
- * Project idea template: [docx](/modules/project-proposal-template.docx?raw=true)
-1. Team interaction and project management (See in-class materials in [Lecture 4 pdf](lectures/lecture4.pdf))
- * Agile methods for development and assessment
- * Using collaboration tools
- * Keeping track of efforts
+- Introduction to the course
+  - [Virtualization primer](/modules/virtualization-primer.md)
+  - [Github primer](/modules/github-primer.md)
+- Project discussion and planning
+  - Project idea template: [docx](/modules/project-proposal-template.docx?raw=true)
+- Team interaction and project management (See in-class materials in [Lecture 4 pdf](lectures/lecture4.pdf))
+  - Agile methods for development and assessment
+  - Using collaboration tools
+  - Keeping track of efforts
 
 
 ## Class Topics
-1. Getting up to speed
- * [Virtualization primer](/modules/virtualization-primer.md)
- * [Github primer](/modules/github-primer.md)
- * Intro to the class and survey of security issues in different domains/sectors ([Lecture 1 pdf](lectures/lecture1.pdf))
-    * Web app threat landscape
-    * Mobile app threat landscape
-    * SCADA/ICS threats
-1. Review of software engineering ([Lecture 2](/lectures/lecture2.pdf), [Lecture 3 PDF](/lectures/lecture3.pdf))
- * Software Architectures
- * Software design principles
- * Security in the Software development lifecycle
-1. Test-driven Development and assessment ([Lecture 4 pdf](lectures/lecture4.pdf))
- * Unit testing
- * Acceptance critera
- * think-test-build-test-repeat
- * Blackbox testing
-1. Review of certification and assessment
- * Security controls, coutermeasures, etc
- * Standards Documents: NIST SP800-53, FIPS200, 800-33, etc
- * Assessment tools
-1. Time to be creative
- * Come up with your own project idea or implement/assess something for a friend/family member or community organization
- * See [Projects](#projects) area
+- Getting up to speed
+  - [Virtualization primer](/modules/virtualization-primer.md)
+  - [Github primer](/modules/github-primer.md)
+  - Intro to the class and survey of security issues in different domains/sectors ([Lecture 1 pdf](lectures/lecture1.pdf))
+    - Web app threat landscape
+    - Mobile app threat landscape
+    - SCADA/ICS threats
+- Review of software engineering ([Lecture 2](/lectures/lecture2.pdf), [Lecture 3 PDF](/lectures/lecture3.pdf))
+  - Software Architectures
+  - Software design principles
+  - Security in the Software development lifecycle
+- Test-driven Development and assessment ([Lecture 4 pdf](lectures/lecture4.pdf))
+  - Unit testing
+  - Acceptance critera
+  - think-test-build-test-repeat
+  - Blackbox testing
+- Review of certification and assessment
+  - Security controls, coutermeasures, etc
+  - Standards Documents: NIST SP800-53, FIPS200, 800-33, etc
+  - Assessment tools
+- Time to be creative
+  - Come up with your own project idea or implement/assess something for a friend/family member or community organization
+  - See [Projects](#projects) area
 
 ## Syllabus
 ### Date/Time: Thursday 5:30pm – 8:10pm
@@ -132,17 +132,17 @@ Fill out the following form [https://goo.gl/forms/12rmlMTkVjG9nIqn2](https://goo
 ### E-mail:  mlhale@unomaha.edu
 
 ### Grading Breakdown (due dates are tentative)
- * (10%) Participation score (meetings, short tutorial participation, etc)
- * (20%) Labs
- * (20%) Semester Project Milestone 1 - ([rubric](/projects/milestone1.md))
- * (20%) Semester Project Milestone 2 - ([rubric](/projects/milestone2.md))
- * (30%) Semester Project Milestone Final - (rubric TBA)
+- (10%) Participation score (meetings, short tutorial participation, etc)
+- (20%) Labs
+- (20%) Semester Project Milestone 1 - ([rubric](/projects/milestone1.md))
+- (20%) Semester Project Milestone 2 - ([rubric](/projects/milestone2.md))
+- (30%) Semester Project Milestone Final - (rubric TBA)
 
 Each project milestone will have a specific grading rubric that includes the core requirements for the project, any required intermediate milestone goals (such as short progress meetings with the instructor), the project due date, and the list of items that must be submitted. Each project will include a presentation component to be presented in class on the project due date. Projects build upon each other. The final Project is considered to be comprehensive. This means that <i>there is no final exam</i>. Final Project presentations will be presented on the day of the Final.
 
 ### Attendance
-* Class Attendance: You do not have to attend class except on presentation days (see below). Given the course is one day a week, attendance is highly recommended. Missing a single class is equivalent to missing 2-3 classes of a normal course. If you miss class, you are responsible for getting the material – including any assigned project work.
-* Presentation Attendance (Mandatory): If you miss class on a presentation day you will receive a 0 on the presentation portion of the project grade unless you have a university-approved excuse or an approved extension (see below). 
+- Class Attendance: You do not have to attend class except on presentation days (see below). Given the course is one day a week, attendance is highly recommended. Missing a single class is equivalent to missing 2-3 classes of a normal course. If you miss class, you are responsible for getting the material – including any assigned project work.
+- Presentation Attendance (Mandatory): If you miss class on a presentation day you will receive a 0 on the presentation portion of the project grade unless you have a university-approved excuse or an approved extension (see below). 
 
 ### Group Work
 Students will work in groups. Group projects will include an individual participation grade worth 50% of the total group points, e.g. a group may make a 100% on a particular project, but an individual with low participation in the group may make a 50%. Participation will be anonymously rated by other group team members and the instructor. 
