@@ -7,14 +7,14 @@ Monday Apr. 3rd (4/3/17) at 11:59PM
 ### Overview
 This project milestone tasks you with exploring your top three User stories. For makers - that means you will be creating features to support three of your user stories. For breakers, it means you should be conducting penetration testing and other relevant threat assessment procedures that fit into the first three user stories you've identified that are relevant. It also tasks you with generating relevant documentation associated with design and implementation (Features or attacks).
 
-1. [Architectural Diagram](#architecture-diagram) - How will you build your product (or how is your product built)?
-1. [Activity Diagrams](#activity-diagrams) - Identifies a workflow that describes the operation of your product.
-1. [User story realization](#user-story-realization) - Document and describe what was done.
- * Identify tasks achieved from your backlog
- * Document the product increments (an agile term for the things you produce) generated in this milestone
- * Bind tasks, code artifacts, and documentation together
-1. [Next Milestone planning](#next-milestone-plan) - Create a plan on trello for your next milestone
-1. [Presentation](#presentation) - Present your milestone 2 work to the class
+- [Architectural Diagram](#architectural-diagram) - How will you build your product (or how is your product built)?
+- [Activity Diagrams](#activity-diagrams) - Identifies a workflow that describes the operation of your product.
+- [User story realization](#user-story-realization) - Document and describe what was done.
+  - Identify tasks achieved from your backlog
+  - Document the product increments (an agile term for the things you produce) generated in this milestone
+  - Bind tasks, code artifacts, and documentation together
+- [Next Milestone planning](#next-milestone-plan) - Create a plan on trello for your next milestone
+- [Presentation](#presentation) - Present your milestone 2 work to the class
 
 ### Architectural Diagram
 An architecture diagram clearly identifies the various components and connectors that comprise a product. For this part of Milestone 2, you should create a diagram that shows how your product is composed together. If you are a maker, this means you should identify which components fit into your design, how you plan to connect them together, and how other (third party, etc) components fit into the design. Think about questions such as "What layers exist in my application?, Are components cleanly seperated from one another and are they appropriately coupled and cohesive?, How is data passed between components or external resources (e.g. are APIs being used appropriately)?" For breakers, your architecture diagram represents an exploration of the product you are evaluating. You should try, to the best of your ability to find or reverse engineer how the product is structured. Think about the same set of questions above, but from the perspective of identifying how it is designed, instead of how it *should be* designed. 
