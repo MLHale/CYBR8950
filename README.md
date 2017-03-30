@@ -5,7 +5,7 @@ This repository contains a digitized version of the course content for the CYBR/
 In this course, students will extend and apply their knowledge, accumulated from their undergraduate studies, towards defining, implementing, and assessing secured information systems. Students will demonstrate their ability to specify, apply, and assess different types of countermeasures at different points in a system or enterprise.
 
 ### Table of contents
-[Remaining Class Schedule](#schedule)  
+[Remaining Class Schedule](#remaining-class-schedule)  
 [Online discussion area](#online-discussion-area)  
 [Location](#location)  
 [Supplies](#supplies)  
