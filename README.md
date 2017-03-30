@@ -5,14 +5,24 @@ This repository contains a digitized version of the course content for the CYBR/
 In this course, students will extend and apply their knowledge, accumulated from their undergraduate studies, towards defining, implementing, and assessing secured information systems. Students will demonstrate their ability to specify, apply, and assess different types of countermeasures at different points in a system or enterprise.
 
 ### Table of contents
+[Remaining Class Schedule](#schedule)  
 [Online discussion area](#online-discussion-area)  
-[Location](#location)	 
-[Supplies](#supplies)	 
-[Projects](#projects)
-[Labs](#labs)
+[Location](#location)  
+[Supplies](#supplies)  
+[Projects](#projects)  
+[Labs](#labs)  
 [Class topics](#class-topics)  
 [Syllabus](#syllabus)  
 [License](#license)  
+
+## Remaining Class Schedule
+* Mar 23 – no class, spring break (have fun)
+* Mar 30 – Lab time to work on Milestone 2 and get help from me
+* April 6 – Milestone 2 Presentations / Discussions, Final Milestone assigned
+* April 13 – Milestone 2 Presentations  / Discussions
+* April 20 – Lab time to work on Final Milestone
+* April 27 – Dead week – available for lab help
+* May 4 – Final Presentations, 5:30PM
 
 ## Online Discussion Area
 I have setup an online discussion board on slack.com for usage in this class. I can create some private channels for you to work in with your project teams (once created), but I want to be able to participate in your conversations - so please use the space on slack. 
