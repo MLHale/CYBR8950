@@ -2,7 +2,7 @@
 **Assigned: Wednesday 3/8/17**
 
 ### Due Date
-Monday Apr. 3rd (4/3/17) at 11:59PM
+Monday Apr. 5th (4/5/17) at 11:59PM
 
 ### Overview
 This project milestone tasks you with exploring your top three User stories. For makers - that means you will be creating features to support three of your user stories. For breakers, it means you should be conducting penetration testing and other relevant threat assessment procedures that fit into the first three user stories you've identified that are relevant. It also tasks you with generating relevant documentation associated with design and implementation (Features or attacks).
