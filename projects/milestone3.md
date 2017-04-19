@@ -120,7 +120,23 @@ You will be expected to present your Final Milestone to the class on our final d
 Submit your slides to Dr. Hale as part of your overall submission on the day of the presentation. Submit them by uploading them in your project github repository.
 
 #### Grading Criteria
-You will be graded by a rubric TBA.
+| | Meets expectations (9-10) | Some Issues (6-8) | Does not meet expectations (0-5)|
+|---|---|---|---|
+| Enthusiasm and clarity | Presenter exhibits enthusiasm about the work and speaks clearly and confidently. | Some issues with clarity and enthusiasm. | Presenter has mumbles, is not clear, and/or does not demonstrate any enthusism. |
+| Understanding of product | Presenter understands all aspects presented about the project. | Some gaps in understanding when questioned by audience or routinely looks at team slides |Poor understanding of project. |
+| Relevant information | Engaging relevant information is presented about the project. | Valuable information is presented but there are multiple tangents. | Little valuable information is presented |
+| Quick Re-cap of high level goal(s) | Overall goals are briefly recapped. | Too much time is spend on the goals | Way too much time is spent or goals are not covered at all. |
+| Quick Re-cap of user stories | User stories are quickly re-capped. | Too much time is spent reading off user stories | Way to much time spent or no coverage at all. |
+| Quick Re-cap of architecture | Overall architecture is briefly discussed in terms of important components or (for breakers) where tests were conducted. | Too much time is spent on the architecture. | Way too much time is spent or no coverage of architecture. |
+
+
+| | Meets expectations (17-20) | Some Issues (10-16) | Does not meet expectations (0-9)|
+|---|---|---|---|
+| Demo* | Deliverable is demonstrated with accompanied explanation of outcomes and success. Product functionality is successfully demoed (makers) or important select tests are successfully demoed (breakers). | Demo is mildly successful. | Demo fails or is not included in the presentation | 
+| Results | Results are overviewed, summaried, and relayed to the audience. For breakers that means covering significant findings. For Makers it means discussing your overall product results. | Limited results are presented or too much time is spent on minor results. | No results are presented or presenters waste a lot of time on minor results, missing time to present significant findings. |
+
+* Note that Demos may include videos if the conditions necessary to replicate the demo cannot be re-created in a live in-class demo.
+
 **Total 100 points.**
 
 #### License
