@@ -2,7 +2,7 @@
 **Assigned: Thursday 4/6/17**
 
 ### Due Date
-Thursday May 4th (4/4/17) at class time (5:30pm)  
+Thursday May 4th (5/4/17) at class time (5:30pm)  
 **No Extensions will be given!!!**
 
 ### Overview
