@@ -71,7 +71,7 @@ Your team will be graded as follows:
 |Effort and progress| It is clear that the team has made non-trivial effort and progress towards user story investigation.| There is some evidence of effort and progress, but more could have been done in the time. | Little effort or progress was made towards user story realization.|
 |Documentation| Testing procedures and tasks are documented well. Documentation is clear and illustrative. | Some tests and tasks are documented, but large portions are not. | Little or no documentation.|
 
-**Total 90 points.**
+**Total 80 points.**
 
 ### Packaging and Release
 An important part of developing or assessing a product is making the product or results accessible to those that might want to use it or them. This part of the final milestone tasks makers with preparing their product and code for release by using relevant deployment strategies and by creating appropriate companion documentation. Breakers, on the other hand, will prepare a final assessment report that summarizes their findings, connects findings to assessment activities, and packages everything for release and review.
