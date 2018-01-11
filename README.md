@@ -1,31 +1,37 @@
 # CYBR4580
-This repository contains a digitized version of the course content for the CYBR/IA 4580 Certification and Accreditation capstone course at the University of Nebraska at Omaha.
+This repository contains a digitized version of the course content for the CYBR 4580/8950 Certification and Accreditation capstone course at the University of Nebraska at Omaha.
 
 ## Overview
-In this course, students will extend and apply their knowledge, accumulated from their undergraduate studies, towards defining, implementing, and assessing secured information systems. Students will demonstrate their ability to specify, apply, and assess different types of countermeasures at different points in a system or enterprise.
+In this course, students will extend and apply their knowledge, accumulated from their undergraduate/graduate studies, towards defining, implementing, and assessing secured information systems. Students will demonstrate their ability to specify, apply, and assess different types of countermeasures at different points in a system or enterprise.
 
 ### Table of contents
-[Remaining Class Schedule](#remaining-class-schedule)  
-[Online discussion area](#online-discussion-area)  
-[Location](#location)  
-[Supplies](#supplies)  
-[Projects](#projects)  
-[Labs](#labs)  
-[Class topics](#class-topics)  
-[Syllabus](#syllabus)  
-[License](#license)  
+[Remaining Class Schedule](#remaining-class-schedule)
+[Online discussion area](#online-discussion-area)
+[Location](#location)
+[Supplies](#supplies)
+[Projects](#projects)
+[Labs](#labs)
+[Class topics](#class-topics)
+[Syllabus](#syllabus)
+[License](#license)
 
-## Remaining Class Schedule
-* Mar 23 – no class, spring break (have fun)
-* Mar 30 – Lab time to work on Milestone 2 and get help from me
-* April 6 – Milestone 2 Presentations / Discussions, Final Milestone assigned
-* April 13 – Milestone 2 Presentations  / Discussions
-* April 20 – Lab time to work on Final Milestone
-* April 27 – Dead week – available for lab help
-* May 4 – Final Presentations, 5:30PM
-
-## Online Discussion Area
-I have setup an online discussion board on slack.com for usage in this class. I can create some private channels for you to work in with your project teams (once created), but I want to be able to participate in your conversations - so please use the space on slack.
+## Tentative Class Schedule
+| Dates | Week | Activity|
+| January 8th | 1 | Course introduction. Cybersecurity is everywhere.|
+| January 15th | 2 | Thoughts on Software Engineering. Track 1 bids due January 19!|
+| January 22nd | 3 | 15minute presentations on your bids in random order. |
+| January 29th | 4 | Work on Proposals |
+| February 5th | 5 | Proposals due February 9! |
+| February 12th | 6 | Milestone 1 due, 25minute presentations + 5 minute Q/A, random order. Milestone 2 assigned. |
+| February 19th | 7 | Continue milestone 1 presentations. Work on Milestone 2. |
+| February 26th | 8 | Work on Milestone 2. Track 1 progress reports due March 2! Track 1 presentations either March 2 or 9! |
+| March 5th | 9 | Work on Milestone 2. |
+| March 12th | 10 | Work on Milestone 2. |
+| March 19th | 11 | (Spring Break) No class |
+| March 26th | 12 | Milestone 2 due, 25minute presentations + 5 minute Q/A, random order. Milestone 3 assigned. |
+| April 2nd | 13 | Work on Milestone 3. |
+| April 9th | 14 | April 16th15April 23rd16Track 1 final reports due April 27!Track 1 presentation either April 27 or May 4!Final Milestone25minute presentations + 5 minute Q/A, random order.April 30thFinal is scheduled for 5:00 PM Tuesday May 1.We will use this time to finish up the final presentationsif needed.   |   |   |   |
+I have setup an online discussion board on slack.com for usage in this class. I can create some private channels for you to work in with your project teams (once created), but I want to be able to participate in your conversations - so please use the space on slack.   |   |   |
 
 Go to [https://drhale4580.slack.com](https://drhale4580.slack.com) and use your unomaha email address to register an account. This will give you access to the course discussion and project collaboration spaces. Use the the general channel or create a new one for your team.
 
@@ -181,7 +187,7 @@ The instructor may retain a copy of your exams (with names and any other identif
 
 In addition, the instructor retains the right to use any code or project artifacts developed in the course for pedagogy, research, or service learning purposes. Student web project code developed in the course may be used in future secure project development courses, by the instructor for research purposes, or by designated stakeholders.
 
-## License  
+## License
 IA/CYBR Capstone
 Copyright (C) 2016-2017  Dr. Matthew L. Hale
 
