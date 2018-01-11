@@ -39,6 +39,7 @@ Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and u
 
 ## Tentative Class Schedule
 | Dates | Week | Activity|
+|-------|------|---------|
 | January 8th | 1 | Course introduction. Cybersecurity is everywhere.|
 | January 15th | 2 | Thoughts on Software Engineering. Track 1 bids due January 19!|
 | January 22nd | 3 | 15minute presentations on your bids in random order. |
