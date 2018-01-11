@@ -118,8 +118,11 @@ Regardless of your Track you will do the following.
 
 ## Labs
 - Introduction to the course (optional)
+  - [Github primer](/modules/github/README.md)
+  - [Container primer](/modules/containers/README.md)
   - [Virtualization primer](/modules/virtualization-primer.md)
-  - [Github primer](/modules/github-primer.md)
+  - [Creatin a REST API](/modules/restful-api/README.md)
+  - [Pen testing REST](/modules/penetration-testing/README.md)
 - Project Selection and Bid process
 - Team interaction and project management (See in-class materials in [Lecture 4 pdf](lectures/lecture4.pdf))
   - Agile methods for development and assessment
