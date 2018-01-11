@@ -1,16 +1,20 @@
 # CYBR4580
 This repository contains a digitized version of the course content for the CYBR 4580/8950 Certification and Accreditation capstone course at the University of Nebraska at Omaha.
 
+## Viewing these materials
+The class materials are best viewed at [https://mlhale.github.io/CYBR4580-8950/](https://mlhale.github.io/CYBR4580-8950/)
+
 ## Overview
 In this course, students will extend and apply their knowledge, accumulated from their undergraduate/graduate studies, towards defining, implementing, and assessing secured information systems. Students will demonstrate their ability to specify, apply, and assess different types of countermeasures at different points in a system or enterprise.
 
 ## Table of contents
 <!-- TOC START min:1 max:3 link:true update:true -->
 - [CYBR4580](#cybr4580)
+  - [Viewing these materials](#viewing-these-materials)
   - [Overview](#overview)
   - [Table of contents](#table-of-contents)
+  - [Online Discussion Area (Slack)](#online-discussion-area-slack)
   - [Tentative Class Schedule](#tentative-class-schedule)
-  - [Slack Channels](#slack-channels)
   - [Location](#location)
   - [Supplies](#supplies)
     - [Hardware/software](#hardwaresoftware)
@@ -47,7 +51,10 @@ In this course, students will extend and apply their knowledge, accumulated from
 
 <!-- TOC END -->
 
+## Online Discussion Area (Slack)
+I have setup an online discussion board on slack.com for usage in this class. I can create some private channels for you to work in with your project teams (once created), but I want to be able to participate in your conversations - so please use the space on slack.
 
+Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and use your unomaha email address to register an account. This will give you access to the course discussion and project collaboration spaces. Use the the general channel, your project channel, or private messages. I expect all project-related communication to live in your slack channel. If you need my attention please use the `@mlhale` syntax to get my attention (or `@Bill Mahoney ` to get Bill's).
 
 ## Tentative Class Schedule
 | Dates | Week | Activity|
@@ -68,12 +75,6 @@ In this course, students will extend and apply their knowledge, accumulated from
 | April 16th | 15 | Work on Milestone 3. |
 | April 23rd | 16 | Track 1 final reports due April 27! Track 1 presentation either April 27 or May 4! Final Milestone, 25minute presentations + 5 minute Q/A, random order. |
 | April 30th | | Final is scheduled for 5:00 PM Tuesday May 1. We will use this time to finish up the final presentations if needed. |
-
-
-## Slack Channels
-I have setup an online discussion board on slack.com for usage in this class. I can create some private channels for you to work in with your project teams (once created), but I want to be able to participate in your conversations - so please use the space on slack.
-
-Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and use your unomaha email address to register an account. This will give you access to the course discussion and project collaboration spaces. Use the the general channel, your project channel, or private messages. I expect all project-related communication to live in your slack channel. If you need my attention please use the `@mlhale` syntax to get my attention (or `@Bill Mahoney ` to get Bill's).
 
 ## Location
 All classroom activities will take place in PKI room 276 (graduate) or PKI 271 (undergraduate) unless otherwise noted ahead of time.
