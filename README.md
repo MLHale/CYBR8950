@@ -23,13 +23,17 @@ In this course, students will extend and apply their knowledge, accumulated from
   - [Class Topics](#class-topics)
   - [Former Project Hall of Fame](#former-project-hall-of-fame)
     - [2017](#2017)
-  - [Grad Syllabus](#grad-syllabus)
-    - [Date/Time: Thursday 5:30pm – 8:10pm](#datetime-thursday-530pm--810pm)
-    - [Instructor:  Dr. Hale (grad)](#instructor--dr-hale-grad)
+  - [Syllabus](#syllabus)
+    - [Date/Time: Thursday 5:30pm – 8:10pm (grad), Tuesday/Thursday 4:00-5:15 (undergrad)](#datetime-thursday-530pm--810pm-grad-tuesdaythursday-400-515-undergrad)
+    - [Instructor grad:  Dr. Hale](#instructor-grad--dr-hale)
     - [Office:  PKI 174-D, (402) 554-3978](#office--pki-174-d-402-554-3978)
     - [Office Hours:  By appointment or walk-ins anytime the door is open](#office-hours--by-appointment-or-walk-ins-anytime-the-door-is-open)
     - [E-mail:  mlhale@unomaha.edu (please message me on slack instead of emailing)](#e-mail--mlhaleunomahaedu-please-message-me-on-slack-instead-of-emailing)
-    - [Grading Breakdown (due dates are tentative)](#grading-breakdown-due-dates-are-tentative)
+    - [Instructor (undergrad): Dr. Mahoney](#instructor-undergrad-dr-mahoney)
+    - [Office:  PKI 282F, 554-3975](#office--pki-282f-554-3975)
+    - [Office Hours:  By appointment](#office-hours--by-appointment)
+    - [E-mail:  wmahoney@unomaha.edu](#e-mail--wmahoneyunomahaedu)
+    - [Grading Breakdown (see schedule for tentative due dates)](#grading-breakdown-see-schedule-for-tentative-due-dates)
     - [Attendance](#attendance)
     - [Group Work](#group-work)
     - [Team formation](#team-formation)
@@ -174,14 +178,19 @@ Regardless of your Track you will do the following.
 * [Android Process inspector](https://github.com/pstratman/sector)
   * Paul Stratman
 
-## Grad Syllabus
-### Date/Time: Thursday 5:30pm – 8:10pm
-### Instructor:  Dr. Hale (grad)
+## Syllabus
+### Date/Time: Thursday 5:30pm – 8:10pm (grad), Tuesday/Thursday 4:00-5:15 (undergrad)
+### Instructor grad:  Dr. Hale
 ### Office:  PKI 174-D, (402) 554-3978
 ### Office Hours:  By appointment or walk-ins anytime the door is open
 ### E-mail:  mlhale@unomaha.edu (please message me on slack instead of emailing)
 
-### Grading Breakdown (due dates are tentative)
+### Instructor (undergrad): Dr. Mahoney
+### Office:  PKI 282F, 554-3975
+### Office Hours:  By appointment
+### E-mail:  wmahoney@unomaha.edu
+
+### Grading Breakdown (see schedule for tentative due dates)
 - (10%) Participation score (meetings, short tutorial participation, etc)
 - (10%) Project Proposal / Description
 - (25%) Semester Project Milestone 1 - ([rubric TBA]())
