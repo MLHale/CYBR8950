@@ -107,16 +107,13 @@ Regardless of your Track you will do the following.
   - [Creatin a REST API](/modules/restful-api/README.md)
   - [Pen testing REST](/modules/penetration-testing/README.md)
 - Project Selection and Bid process
-- Team interaction and project management (See in-class materials in [Lecture 4 pdf](lectures/lecture4.pdf))
+- Team interaction and project management
   - Agile methods for development and assessment
   - Using collaboration tools
   - Keeping track of efforts
 
 ## Class Topics
-- Intro to the class and survey of security issues in different domains/sectors ([Lecture 1 pdf](lectures/lecture1.pdf))
-  - Web app threat landscape
-  - Mobile app threat landscape
-  - SCADA/ICS threats
+- Intro to the class 
 - Review of software engineering ([Lecture 2](/lectures/lecture2.pdf), [Lecture 3 PDF](/lectures/lecture3.pdf))
   - Software Architectures
   - Software design principles
