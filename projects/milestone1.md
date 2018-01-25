@@ -11,19 +11,17 @@ Monday Feb. 8th (2/8/18) at 11:59PM
 ### Overview
 This project milestone tasks you with identifying project requirements, analyzing them to determine needed resources (technology and skillsets), preparing a project management plan, and packaging all of this as a project proposal. Overall, this means you will prepare a series of project management and design artifacts. Towards this goal, you will be required to submit the following by the due date:
 
-1. [Executive Project Summary](#executive-project-summary) - What are you doing and why?
+- [Executive Project Summary](#executive-project-summary) - What are you doing and why?
   - Goals and Objectives
   - Merit of the Project
-1. [Proposed project timeline](#proposed-project-timeline) - When will you do it?
+- [Proposed project timeline](#proposed-project-timeline) - When will you do it?
   - Define the tasks and expected time to completion
   - Create and submit a gantt chart
-1. [Project-oriented risk list](#risk-list) - What could go wrong in the project and why?
-1. [Project Methodology](#project-Methodology) - What does your app/product do?
-  - User stories
-  - Use cases
-1. [Resources/Technology needed](#resources-needed) - What do you need to be successful?
-1. [First Sprint Plan](#first-sprint-plan) - Create the first plan on GitHub Kanban
-1. [Note about Teamwork and Group projects](#teamwork)
+- [Project-oriented risk list](#risk-list) - What could go wrong in the project and why?
+- [Project Methodology](#project-Methodology) - What has been done in the literature and what is your technical plan?
+- [Resources/Technology needed](#resources-needed) - What do you need to be successful?
+- [First Sprint Plan](#first-sprint-plan) - Create the first plan on GitHub Kanban
+- [Note about Teamwork and Group projects](#teamwork)
 
 #### Using GitHub and Markdown
 For this and future projects you will submit your milestone work using GitHub (only adding the link to Canvas and Submitting a PDF copy to PURR). We will talk about this in class.
