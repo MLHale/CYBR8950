@@ -1,4 +1,4 @@
-SiemensGitHub## CYBR4580/8950 Project Milestone 1: Requirements analysis and planning (Project Proposal Stage)
+## CYBR4580/8950 Project Milestone 1: Requirements analysis and planning (Project Proposal Stage)
 **Assigned: Thursday 1/25/18**
 
 ### Due Date
@@ -26,7 +26,7 @@ This project milestone tasks you with identifying project requirements, analyzin
 1. [Note about Teamwork and Group projects](#teamwork)
 
 #### Using GitHub and Markdown
-For this and future projects you will submit your milestone work using GitHub (only adding the link to Canvas and Submitting a PDF copy to PURR). We will talk about this in class. 
+For this and future projects you will submit your milestone work using GitHub (only adding the link to Canvas and Submitting a PDF copy to PURR). We will talk about this in class.
 
 ### Executive Project Summary
 An executive summary should be evocative. It should capture a reader and make them want to be a part of your idea. In this milestone you will write an executive summary that defines the goals and objectives of your project in language that is easily readable and mental-image evoking. I (or anyone else) should be able to read your executive summary and instantly know a) what you are doing and b) why it is important. Executive summaries should be exciting and interesting. It is the first (and likely the only) chance for you to engage your reader and, in a real world setting, would determine if your product gets funded. An executive summary does not need technical detail to describe interesting functionality. You should mention your product by name without using phrases such as "the class", "the instructor", "project 2" etc.
