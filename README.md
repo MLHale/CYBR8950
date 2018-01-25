@@ -104,7 +104,7 @@ Regardless of your Track you will do the following.
   - [Github primer](/modules/github/README.md)
   - [Container primer](/modules/containers/README.md)
   - [Virtualization primer](/modules/virtualization-primer.md)
-  - [Creatin a REST API](/modules/restful-api/README.md)
+  - [Creating a REST API](/modules/restful-api/README.md)
   - [Pen testing REST](/modules/penetration-testing/README.md)
 - Project Selection and Bid process
 - Team interaction and project management
@@ -112,8 +112,8 @@ Regardless of your Track you will do the following.
   - Using collaboration tools
   - Keeping track of efforts
 
-## Class Topics
-- Intro to the class 
+## Class Topics 
+- Intro to the class
 - Review of software engineering ([Lecture 2](/lectures/lecture2.pdf), [Lecture 3 PDF](/lectures/lecture3.pdf))
   - Software Architectures
   - Software design principles
