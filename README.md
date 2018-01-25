@@ -87,7 +87,7 @@ In this track students will select or be assigned an existing product or system 
 Students will follow certification and accreditation techniques using best practices and security controls from standards documents (such as the NIST 800-53).
 
 ### Project Milestones
-* [Capstone Milestone 1 rubric] - TBA
+* [Capstone Milestone 1 rubric](./projects/milestone1.md) - Due Feb. 8th
 * [Capstone Milestone 2 rubric] - TBA
 * [Capstone Final Milestone rubric] - TBA
 
@@ -112,7 +112,7 @@ Regardless of your Track you will do the following.
   - Using collaboration tools
   - Keeping track of efforts
 
-## Class Topics 
+## Class Topics
 - Intro to the class
 - Review of software engineering ([Lecture 2](/lectures/lecture2.pdf), [Lecture 3 PDF](/lectures/lecture3.pdf))
   - Software Architectures
