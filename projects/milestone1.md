@@ -2,7 +2,7 @@
 **Assigned: Thursday 1/25/18**
 
 ### Due Date
-Monday Feb. 8th (2/8/18) at 11:59PM
+Thursday Feb. 8th (2/8/18) at 11:59PM
 
 **Submit a GitHub repo link to canvas**
 **Add Dr. Hale and Mahoney as collaborators on your GitHub Repo**
