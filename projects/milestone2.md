@@ -1,8 +1,8 @@
 ## IA4580 Project Milestone 2: Exploring your top three user stories
-**Assigned: Wednesday 3/8/17**
+**Assigned: Wednesday 2/28/18**
 
 ### Due Date
-Monday Apr. 5th (4/5/17) at 11:59PM
+Monday Mar. 26th (3/26/18) at 11:59PM
 
 ### Overview
 This project milestone tasks you with exploring your top three User stories. For makers - that means you will be creating features to support three of your user stories. For breakers, it means you should be conducting penetration testing and other relevant threat assessment procedures that fit into the first three user stories you've identified that are relevant. It also tasks you with generating relevant documentation associated with design and implementation (Features or attacks).
@@ -17,7 +17,7 @@ This project milestone tasks you with exploring your top three User stories. For
 - [Presentation](#presentation) - Present your milestone 2 work to the class
 
 ### Architectural Diagram
-An architecture diagram clearly identifies the various components and connectors that comprise a product. For this part of Milestone 2, you should create a diagram that shows how your product is composed together. If you are a maker, this means you should identify which components fit into your design, how you plan to connect them together, and how other (third party, etc) components fit into the design. Think about questions such as "What layers exist in my application?, Are components cleanly seperated from one another and are they appropriately coupled and cohesive?, How is data passed between components or external resources (e.g. are APIs being used appropriately)?" For breakers, your architecture diagram represents an exploration of the product you are evaluating. You should try, to the best of your ability to find or reverse engineer how the product is structured. Think about the same set of questions above, but from the perspective of identifying how it is designed, instead of how it *should be* designed. 
+An architecture diagram clearly identifies the various components and connectors that comprise a product. For this part of Milestone 2, you should create a diagram that shows how your product is composed together. If you are a maker, this means you should identify which components fit into your design, how you plan to connect them together, and how other (third party, etc) components fit into the design. Think about questions such as "What layers exist in my application?, Are components cleanly seperated from one another and are they appropriately coupled and cohesive?, How is data passed between components or external resources (e.g. are APIs being used appropriately)?" For breakers, your architecture diagram represents an exploration of the product you are evaluating. You should try, to the best of your ability to find or reverse engineer how the product is structured. Think about the same set of questions above, but from the perspective of identifying how it is designed, instead of how it *should be* designed.
 
 #### Submission materials
 You should create your diagram using an architectural tool such as Lucidchart, MS Visio, or similar tools. You should include the diagram in your README.md file, in your github repo, as an image and/or link to lucidchart.
@@ -25,11 +25,11 @@ You should create your diagram using an architectural tool such as Lucidchart, M
 It should contain the following:
 
 1. Components, represented as a box or a small picture. Each component must have a label that names it. Each component should identify input and output interfaces. On a seperate note (in markdown), you should briefly list and explain what each component does.
-1. Connectors, represented as arrows with approrpriately labeled data sent over the connectors. 
+1. Connectors, represented as arrows with approrpriately labeled data sent over the connectors.
 1. Other grouping concepts, as necessary. In some cases, components may have sub components, systems might be part of a larger system of systems, or there could be other needs for identifying clusters of concepts. Use these where necessary.
 
 **Follow UML or UML-like conventions to build your diagram**
-For more information on component diagrams, see: 
+For more information on component diagrams, see:
 * [http://www.uml-diagrams.org/component-diagrams-reference.html](http://www.uml-diagrams.org/component-diagrams-reference.html)
 * [http://agilemodeling.com/artifacts/componentDiagram.htm](http://agilemodeling.com/artifacts/componentDiagram.htm)
 
@@ -110,7 +110,7 @@ Your team will be graded as follows:
 Plan the next milestone. In the next (and final milestone) - you will explore your last two user stories and either 1) polish your product and prepare it for release (makers) or 2) integrate your tests and aggregate your results into a single assessment report for release to vendors or other relevant entities.
 
 #### Submission materials
-This part of the milestone is strictly captured by Trello. Make sure Dr. Hale has been added to your project Kanban boards. In your Kanban board, create a board following the structure discussed in Lecture 4. Use this structure to identify the tasks that you will tackle in your next sprint. Put those tasks in the **Sprint To-do** category. 
+This part of the milestone is strictly captured by Trello. Make sure Dr. Hale has been added to your project Kanban boards. In your Kanban board, create a board following the structure discussed in Lecture 4. Use this structure to identify the tasks that you will tackle in your next sprint. Put those tasks in the **Sprint To-do** category.
 
 #### Grading Criteria
 **Total 30 points.**
@@ -122,7 +122,7 @@ You will be expected to present your Milestone 2 achievements to the class follo
 Submit your slides to Dr. Hale by 11:59pm on the day of the presentation. Submit them by posting and pinning them in your team slack channel.
 
 #### Grading Criteria
-You will be graded by a rubric TBA. 
+You will be graded by a rubric TBA.
 **Total 60 points.**
 
 #### License
