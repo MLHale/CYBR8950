@@ -17,17 +17,10 @@ In this course, students will extend and apply their knowledge, accumulated from
   - [Tentative Class Schedule](#tentative-class-schedule)
   - [Location](#location)
   - [Supplies](#supplies)
-    - [Hardware/software](#hardwaresoftware)
   - [Projects](#projects)
-    - [Project types](#project-types)
-    - [Project Tracks](#project-tracks)
-    - [Project Milestones](#project-milestones)
-    - [Project Process](#project-process)
   - [Labs](#labs)
   - [Class Topics](#class-topics)
   - [Former Project Hall of Fame](#former-project-hall-of-fame)
-    - [2017](#2017)
-  - [Syllabus](#syllabus)
   - [License](#license)
 
 <!-- TOC END -->
@@ -48,7 +41,7 @@ Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and u
 | February 12th | 6 | Milestone 1 due, 25minute presentations + 5 minute Q/A, random order. Milestone 2 assigned. |
 | February 19th | 7 | Continue milestone 1 presentations. Work on Milestone 2. |
 | February 26th | 8 | Work on Milestone 2. Track 1 progress reports due March 2! Track 1 presentations either March 2 or 9! |
-| March 5th | 9 | Work on Milestone 2. |
+| March 5th | 9 | Work on Milestone 2. Track 1 progress reports due March 7! Track 1 presentations March 9! |
 | March 12th | 10 | Work on Milestone 2. |
 | March 19th | 11 | (Spring Break) No class |
 | March 26th | 12 | Milestone 2 due, 25minute presentations + 5 minute Q/A, random order. Milestone 3 assigned. |
@@ -88,7 +81,7 @@ Students will follow certification and accreditation techniques using best pract
 
 ### Project Milestones
 * [Capstone Milestone 1 rubric](./projects/milestone1.md) - Due Feb. 8th
-* [Capstone Milestone 2 rubric] - TBA
+* [Capstone Milestone 2 rubric](./projects/milestone2.md) - Due Mar. 26th
 * [Capstone Final Milestone rubric] - TBA
 
 #### Evaluation form
@@ -128,7 +121,7 @@ Regardless of your Track you will do the following.
   - Standards Documents: NIST SP800-53, FIPS200, 800-33, etc
   - Assessment tools
 - Time to be creative
-  - See [Projects](#projects) area
+  - See [Projects](#project-milestones) area
 
 ## Former Project Hall of Fame
 ### 2017
