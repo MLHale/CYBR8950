@@ -17,36 +17,10 @@ In this course, students will extend and apply their knowledge, accumulated from
   - [Tentative Class Schedule](#tentative-class-schedule)
   - [Location](#location)
   - [Supplies](#supplies)
-    - [Hardware/software](#hardwaresoftware)
   - [Projects](#projects)
-    - [Project types](#project-types)
-    - [Project Tracks](#project-tracks)
-    - [Project Milestones](#project-milestones)
-    - [Project Process](#project-process)
   - [Labs](#labs)
   - [Class Topics](#class-topics)
   - [Former Project Hall of Fame](#former-project-hall-of-fame)
-    - [2017](#2017)
-  - [Syllabus](#syllabus)
-    - [Date/Time: Thursday 5:30pm – 8:10pm (grad), Tuesday/Thursday 4:00-5:15 (undergrad)](#datetime-thursday-530pm--810pm-grad-tuesdaythursday-400-515-undergrad)
-    - [Instructor grad:  Dr. Hale](#instructor-grad--dr-hale)
-    - [Office:  PKI 174-D, (402) 554-3978](#office--pki-174-d-402-554-3978)
-    - [Office Hours:  By appointment or walk-ins anytime the door is open](#office-hours--by-appointment-or-walk-ins-anytime-the-door-is-open)
-    - [E-mail:  mlhale@unomaha.edu (please message me on slack instead of emailing)](#e-mail--mlhaleunomahaedu-please-message-me-on-slack-instead-of-emailing)
-    - [Instructor (undergrad): Dr. Mahoney](#instructor-undergrad-dr-mahoney)
-    - [Office:  PKI 282F, 554-3975](#office--pki-282f-554-3975)
-    - [Office Hours:  By appointment](#office-hours--by-appointment)
-    - [E-mail:  wmahoney@unomaha.edu](#e-mail--wmahoneyunomahaedu)
-    - [Grading Breakdown (see schedule for tentative due dates)](#grading-breakdown-see-schedule-for-tentative-due-dates)
-    - [Attendance](#attendance)
-    - [Group Work](#group-work)
-    - [Team formation](#team-formation)
-    - [Service Learning / Real World Customers](#service-learning--real-world-customers)
-    - [Project Extensions and Late work](#project-extensions-and-late-work)
-    - [Special accommodations for students with disabilities](#special-accommodations-for-students-with-disabilities)
-    - [Special accommodations for active duty or reserve military](#special-accommodations-for-active-duty-or-reserve-military)
-    - [Plagiarism](#plagiarism)
-    - [Work Retainment](#work-retainment)
   - [License](#license)
 
 <!-- TOC END -->
@@ -107,7 +81,7 @@ Students will follow certification and accreditation techniques using best pract
 
 ### Project Milestones
 * [Capstone Milestone 1 rubric](./projects/milestone1.md) - Due Feb. 8th
-* [Capstone Milestone 1 rubric](./projects/milestone2.md) - Due Mar. 26th
+* [Capstone Milestone 2 rubric](./projects/milestone2.md) - Due Mar. 26th
 * [Capstone Final Milestone rubric] - TBA
 
 #### Evaluation form
@@ -147,7 +121,7 @@ Regardless of your Track you will do the following.
   - Standards Documents: NIST SP800-53, FIPS200, 800-33, etc
   - Assessment tools
 - Time to be creative
-  - See [Projects](#projects) area
+  - See [Projects](#project-milestones) area
 
 ## Former Project Hall of Fame
 ### 2017
