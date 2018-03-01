@@ -22,7 +22,7 @@ This project milestone tasks you with producing your first major deliverable. Si
 ## Project realization
 The bulk of the project work is centered on realizing the methodology you defined in Milestone 1. Here, you should identify the tasks you have achieved, document the product or other intellectual/applied outcomes that have resulted from your efforts, and bind your tasks to the outcomes and documentation you have produced so far.
 
-**TL;dr** Be productive, work towards completing your process, and document what you do.
+Be productive, work towards completing your process, and document what you do.
 
 Documentation towards project realization will come in the form an intermediate project report. Your project report should be placed on GitHub in the same repository you used for Milestone 1. Create a new markdown file that contains the following.
 
@@ -83,7 +83,7 @@ Conceptual Model:
 You should create your diagrams using an architectural tool such as Lucidchart, MS Visio, or similar tools. You should include the diagram in your main project README.md file and in your Progress report in your GitHub repo, as an image and/or link to Lucidchart.
 
 ### Grading Criteria
-You should have produce at least three diagrams relevant to your project, each will be graded as follows:
+You should have produce **at least three diagrams** relevant to your project, each will be graded as follows:
 
 | | Meets expectations (9-10) | Some Issues (6-8) | Does not meet expectations (0-5)|
 |---|---|---|---|
