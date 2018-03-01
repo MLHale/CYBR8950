@@ -1,5 +1,6 @@
 # CYBR4580/8950 Project Milestone 2: Non-trival Deliverable Increment
 **Assigned: Wednesday 2/28/18**
+**Total 270points**
 
 ## Due Date
 Monday Mar. 26th (3/26/18) at 11:59PM
