@@ -135,7 +135,7 @@ Submit your slides to Drs. Hale / Mahoney as part of your overall submission on 
 ### Grading Criteria
 Presentations will be graded using the following rubric. Each student on a team is expected to contribute to and help deliver the presentation.
 
-![rubric](../presentation-rubric.png)
+![rubric](./presentation-rubric.png)
 
 * Note that Demos may include videos if the conditions necessary to replicate the demo cannot be re-created in a live in-class demo.
 
