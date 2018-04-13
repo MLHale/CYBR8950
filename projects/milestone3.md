@@ -21,7 +21,7 @@ This project milestone tasks you with producing your final major deliverable. Si
 
 
 ## Project realization
-Here, you should identify the tasks you have achieved, document the product or other intellectual/applied outcomes that have resulted from your efforts, and bind your tasks to the outcomes and documentation you have produced so far.
+Here, you should identify the tasks you have achieved in milestone 3, document the product or other intellectual/applied outcomes that have resulted from your efforts, and bind your tasks to the outcomes and documentation you have produced so far.
 
 Be productive, work towards completing your process, and document what you do.
 
