@@ -82,7 +82,7 @@ Students will follow certification and accreditation techniques using best pract
 ### Project Milestones
 * [Capstone Milestone 1 rubric](./projects/milestone1.md) - Due Feb. 8th
 * [Capstone Milestone 2 rubric](./projects/milestone2.md) - Due Mar. 26th
-* [Capstone Final Milestone rubric] - TBA
+* [Capstone Final Milestone rubric](./projects/milestone3.md) - Due May 3rd
 
 #### Evaluation form
 For team projects, please use the evaluation form below to assess your teammates.
