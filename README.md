@@ -33,23 +33,23 @@ Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and u
 ## Tentative Class Schedule
 | Dates | Week | Activity|
 |-------|------|---------|
-| January 8th | 1 | Course introduction. Cybersecurity is everywhere.|
-| January 15th | 2 | Thoughts on Software Engineering. Track 1 bids due January 19!|
-| January 22nd | 3 | 15minute presentations on your bids in random order. |
-| January 29th | 4 | Work on Proposals |
-| February 5th | 5 | Proposals due February 9! |
-| February 12th | 6 | Milestone 1 due, 25minute presentations + 5 minute Q/A, random order. Milestone 2 assigned. |
-| February 19th | 7 | Continue milestone 1 presentations. Work on Milestone 2. |
-| February 26th | 8 | Work on Milestone 2. Track 1 progress reports due March 2! Track 1 presentations either March 2 or 9! |
-| March 5th | 9 | Work on Milestone 2. Track 1 progress reports due March 7! Track 1 presentations March 9! |
-| March 12th | 10 | Work on Milestone 2. |
-| March 19th | 11 | (Spring Break) No class |
-| March 26th | 12 | Milestone 2 due, 25minute presentations + 5 minute Q/A, random order. Milestone 3 assigned. |
-| April 2nd | 13 | Work on Milestone 3. |
-| April 9th | 14 | Work on Milestone 3. |
-| April 16th | 15 | Work on Milestone 3. |
-| April 23rd | 16 | Track 1 final reports due April 27! Track 1 presentation either April 27 or May 4! Final Milestone, 25minute presentations + 5 minute Q/A, random order. |
-| April 30th | | Final is scheduled for 5:00 PM Tuesday May 1. We will use this time to finish up the final presentations if needed. |
+| January 7th | 1 | Course introduction. Cybersecurity is everywhere.|
+| January 14th | 2 | Thoughts on Software Engineering. Produce and submit bids! |
+| January 21st | 3 | Discuss bids with Dr. Hale |
+| January 28th | 4 | Work on Proposals |
+| February 4th | 5 | Proposal deadline! |
+| February 11th | 6 | Milestone 1 due, 25minute presentations + 5 minute Q/A, random order. Milestone 2 assigned. |
+| February 18th | 7 | Continue milestone 1 presentations. Work on Milestone 2. |
+| February 25th | 8 | Work on Milestone 2. Progress reports deadline TBA! Presentation to project stakeholders deadline TBA! |
+| March 4th | 9 | Work on Milestone 2. |
+| March 11th | 10 | Work on Milestone 2. |
+| March 18th | 11 | (Spring Break) No class |
+| March 25th | 12 | Milestone 2 due, 25minute presentations + 5 minute Q/A, random order. Milestone 3 assigned. |
+| April 1st | 13 | Work on Milestone 3. |
+| April 8th | 14 | Work on Milestone 3. |
+| April 15th | 15 | Work on Milestone 3. |
+| April 22nd | 16 | Final reports deadline TBA! Final Milestone, 25minute presentations + 5 minute Q/A, random order. |
+| April 29th | 17 | Final presentations  |
 
 ## Location
 All classroom activities will take place in PKI room 263 unless otherwise noted ahead of time.
