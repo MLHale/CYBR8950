@@ -28,7 +28,7 @@ In this course, students will extend and apply their knowledge, accumulated from
 ## Online Discussion Area (Slack)
 I have setup an online discussion board on slack.com for usage in this class. I can create some private channels for you to work in with your project teams (once created), but I want to be able to participate in your conversations - so please use the space on slack.
 
-Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and use your unomaha email address to register an account. This will give you access to the course discussion and project collaboration spaces. Use the the general channel, your project channel, or private messages. I expect all project-related communication to live in your slack channel. If you need my attention please use the `@mlhale` syntax to get my attention (or `@Bill Mahoney ` to get Bill's).
+Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and use your unomaha email address to register an account. This will give you access to the course discussion and project collaboration spaces. Use the the general channel, your project channel, or private messages. I expect all project-related communication to live in your slack channel. If you need my attention please use the `@mlhale` syntax to get my attention.
 
 ## Tentative Class Schedule
 | Dates | Week | Activity|
@@ -52,13 +52,13 @@ Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and u
 | April 30th | | Final is scheduled for 5:00 PM Tuesday May 1. We will use this time to finish up the final presentations if needed. |
 
 ## Location
-All classroom activities will take place in PKI room 276 (graduate) or PKI 271 (undergraduate) unless otherwise noted ahead of time.
+All classroom activities will take place in PKI room 263 unless otherwise noted ahead of time.
 
 ## Supplies
 
 ### Hardware/software
-* [Virtualbox](http://www.virtualbox.org) or [VMWare Workstation (windows) or Fusion (mac)](/vmware/vmware.pdf)
-* Your laptop (capable of running programming environments and/or needed dev/analysis tools)
+* Specific needs vary by project.
+* You will need a laptop capable of running programming environments and/or needed dev/analysis tools. 
 
 ## Projects
 The structure of the course accommodates two types of projects on two tracks.
@@ -70,19 +70,22 @@ In this project type, students will design, build, and secure a new full-fledged
 #### Breakers
 In this project type, students will select an existing product or system and rigorously evaluate it using a combination of system, network, and software testing methods. Relevant artifacts generated will include reversed design docs (i.e. an understanding of how the product works), vulnerability surface analysis documentation, test cases, and analysis results.
 
+#### A note about difficulty
+Neither breaking nor making are necessarily more difficult than one another. Project difficulty is expected to be relatively uniform and tasking throughout the semester will be roughly equivalent in work hours, even if the nature of the work is quite different by type.
+
 ### Project Tracks
 #### Track 1: Problems in National Information Security.
-Students in this track will bid on, and be asked to perform research in directed areas under the supervision of an external partner, typically a national labor federal agency. These will be directed projects with an external Technical Director that the group will report to. The undergrad students in this track will be working in conjunction with graduate students in the graduate capstone class.de, unit/acceptance tests, and testing results.
+Students in this track will bid on, and be asked to perform research in directed areas under the supervision of an external partner, typically a national lab or federal agency. These will be directed projects with an external Technical Director that the group will report to. The undergrad students in this track will be working in conjunction with graduate students in the graduate capstone class.de, unit/acceptance tests, and testing results.
 
 #### Track 2: Industry partners or UNO organizations
-In this track students will select or be assigned an existing product or system to develop or evaluate. Projects may originate with external local companies or internal UNO organizations.
+In this track students will select or be assigned an existing product or system to develop or evaluate. Projects may originate from external local companies or internal UNO organizations.
 
 Students will follow certification and accreditation techniques using best practices and security controls from standards documents (such as the NIST 800-53).
 
 ### Project Milestones
-* [Capstone Milestone 1 rubric](./projects/milestone1.md) - Due Feb. 8th
-* [Capstone Milestone 2 rubric](./projects/milestone2.md) - Due Mar. 26th
-* [Capstone Final Milestone rubric](./projects/milestone3.md) - Due May 3rd, Final Presentation May 1st
+* [Capstone Milestone 1 rubric](./projects/milestone1.md) - Tentatively Due Feb. 8th
+* [Capstone Milestone 2 rubric](./projects/milestone2.md) - Tentatively Due Mar. 26th
+* [Capstone Final Milestone rubric](./projects/milestone3.md) - Tenteatively Due May 3rd, Final Presentation TBA
 
 #### Evaluation form
 For team projects, please use the evaluation form below to assess your teammates.
@@ -155,16 +158,12 @@ Regardless of your Track you will do the following.
   * Paul Stratman
 
 ## Syllabus
-### Date/Time: Thursday 5:30pm – 8:10pm (grad), Tuesday/Thursday 4:00-5:15 (undergrad)
+### Date/Time: Thursday 5:30pm – 8:10pm 
 ### Instructor grad:  Dr. Hale
 ### Office:  PKI 174-D, (402) 554-3978
 ### Office Hours:  By appointment or walk-ins anytime the door is open
 ### E-mail:  mlhale@unomaha.edu (please message me on slack instead of emailing)
 
-### Instructor (undergrad): Dr. Mahoney
-### Office:  PKI 282F, 554-3975
-### Office Hours:  By appointment
-### E-mail:  wmahoney@unomaha.edu
 
 ### Grading Breakdown (see schedule for tentative due dates)
 - (10%) Participation score (meetings, short tutorial participation, etc)
@@ -211,6 +210,6 @@ In addition, the instructor retains the right to use any code or project artifac
 
 ## License
 CYBR Capstone
-Copyright (C) 2016-2017  Dr. Matthew L. Hale
+Copyright (C) 2016-2019  Dr. Matthew L. Hale
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CYBER4580/CYBR 8950 and related works</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://faculty.ist.unomaha.edu/mlhale" property="cc:attributionName" rel="cc:attributionURL">Matt Hale</a> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
