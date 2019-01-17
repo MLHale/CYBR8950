@@ -113,16 +113,16 @@ Regardless of your Track you will do the following.
 
 ## Class Topics
 - Intro to the class
-- Review of software engineering ([Lecture 2](/lectures/lecture2.pdf), [Lecture 3 PDF](/lectures/lecture3.pdf))
+- Review of software engineering
   - Software Architectures
   - Software design principles
   - Security in the Software development lifecycle
-- Test-driven Development Practices ([Lecture 4 pdf](lectures/lecture4.pdf))
+- Test-driven Development Practices
   - Unit testing
   - Acceptance criteria
   - think-test-build-test-repeat
   - Blackbox testing
-- Review of certification and assessment ([Lecture 5 pdf](lectures/lecture5.pdf))
+- Review of certification and assessment
   - Security controls, countermeasures, etc
   - Standards Documents: NIST SP800-53, FIPS200, 800-33, etc
   - Assessment tools
