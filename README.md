@@ -113,7 +113,7 @@ Regardless of your Track you will do the following.
 
 ## Class Topics
 - Intro to the class
-- Review of software engineering
+- Review of software engineering ([slides](./lectures/lecture2.pdf)
   - Software Architectures
   - Software design principles
   - Security in the Software development lifecycle
