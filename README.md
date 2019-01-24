@@ -86,8 +86,8 @@ In this track students will select or be assigned an existing product or system 
 Students will follow certification and accreditation techniques using best practices and security controls from standards documents (such as the NIST 800-53).
 
 ### Project Milestones
-* [Capstone Milestone 1 rubric](./projects/milestone1.md) - Tentatively Due Feb. 8th
-* [Capstone Milestone 2 rubric](./projects/milestone2.md) - Tentatively Due Mar. 26th
+* [Capstone Milestone 1 rubric](./projects/milestone1.md) - Tentatively Due Feb. 15th
+* [Capstone Milestone 2 rubric](./projects/milestone2.md) - Tentatively Due Mar. 25th
 * [Capstone Final Milestone rubric](./projects/milestone3.md) - Tenteatively Due May 3rd, Final Presentation TBA
 
 #### Evaluation form
