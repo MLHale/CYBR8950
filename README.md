@@ -39,8 +39,8 @@ Please fill out the survey at: https://unomaha.az1.qualtrics.com/jfe/form/SV_1Hs
 | January 7th | 1 | Course introduction. Cybersecurity is everywhere.|
 | January 14th | 2 | Thoughts on Software Engineering. Produce and submit bids for review! |
 | January 21st | 3 | Discuss bids with Dr. Hale, Bids Due January 25th! |
-| January 28th | 4 | Problem assignment, work on proposals, no class. |
-| February 4th | 5 | Feeback with Dr. Hale, work on proposals |
+| January 28th | 4 | Problem assignment, work on proposals in groups|
+| February 4th | 5 | Meet with Dr. Hale, work on proposals |
 | February 11th | 6 | Milestone 1 due Febuary 15th, short presentations +  Q/A, random order. Milestone 2 assigned. |
 | February 18th | 7 | Continue milestone 1 presentations. Work on Milestone 2. |
 | February 25th | 8 | Work on Milestone 2.|
