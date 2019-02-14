@@ -47,7 +47,7 @@ Please fill out the survey at: https://unomaha.az1.qualtrics.com/jfe/form/SV_1Hs
 | March 4th | 9 | Work on Milestone 2. |
 | March 11th | 10 | Work on Milestone 2. |
 | March 18th | 11 | (Spring Break) No class |
-| March 25th | 12 | Milestone 2 due March 25th, short presentations + Q/A, random order. Milestone 3 assigned. |
+| March 25th | 12 | Milestone 2 due March 28th, short presentations + Q/A, random order. Milestone 3 assigned. |
 | April 1st | 13 | Work on Milestone 3. |
 | April 8th | 14 | Work on Milestone 3. |
 | April 15th | 15 | Work on Milestone 3. |
