@@ -42,10 +42,10 @@ Please fill out the survey at: https://unomaha.az1.qualtrics.com/jfe/form/SV_1Hs
 | January 28th | 4 | Problem assignment, work on proposals in groups|
 | February 4th | 5 | Meet with Dr. Hale, work on proposals |
 | February 11th | 6 | Milestone 1 due Febuary 15th, short presentations +  Q/A, random order. Milestone 2 assigned. |
-| February 18th | 7 | Continue milestone 1 presentations. Work on Milestone 2. |
-| February 25th | 8 | Work on Milestone 2.|
-| March 4th | 9 | Work on Milestone 2. |
-| March 11th | 10 | Work on Milestone 2. |
+| February 18th | 7 | Continue milestone 1 presentations (as needed). Meet with Dr. Hale, work on projects. |
+| February 25th | 8 | Meet with Dr. Hale, work on projects.|
+| March 4th | 9 | Meet with Dr. Hale, work on projects. |
+| March 11th | 10 | Meet with Dr. Hale, work on projects. |
 | March 18th | 11 | (Spring Break) No class |
 | March 25th | 12 | Milestone 2 due March 28th, short presentations + Q/A, random order. Milestone 3 assigned. |
 | April 1st | 13 | Work on Milestone 3. |
