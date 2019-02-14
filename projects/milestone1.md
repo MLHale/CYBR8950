@@ -49,6 +49,8 @@ Your summaries will be graded as follows following:
 |Grammar, spelling, syntax | Summary is evocative and free of grammar, spelling, or syntax issues. | Summary contains a few syntax, grammar, or spelling issues. | Summary is difficult to read due to glaring grammar, syntax, or spelling issues|
 |Use of markdown| Summary should render as the project homepage on your GitHub repo. It should following markdown conventions. | Doesn't perfectly follow markdown syntax or isn't rendered on the repo home page correctly. | Doesn't use markdown or isn't displayed in the repo.|
 
+**60 points**
+
 ## Proposed project timeline
 An important part of project planning is identifying tasks to be completed to address project goals and arranging those tasks in such a way that they can be completed within a (typically) fixed interval of time. In this class, that interval is the length of the semester. For milestone one, prepare an overall project timeline that identifies large tasks to be completed, estimates time of completion, and arranges those tasks chronologically over the project lifespan.
 
@@ -64,6 +66,9 @@ Your gantt chart will be graded as follows:
 | Chronologically arranged | Tasks are intelligently arrayed by time. | Tasks are poorly arranged. | Tasks are extremely poorly or not arranged in time. |
 | Achievable | Timeline is expectedly achievable given time frame and team size. | Timeline/task achievability is questionable. | Timeline is completely unrealistic.
 | Displayed in readme file| Your gantt chart is accessible in your GitHub project repo on the same page as the executive summary | N/A | Your gantt chart is not available in your GitHub repo |
+
+**40 points**
+
 
 ## Risk list
 As you will probably discover, there are many things that can go wrong when working on a project. Issues with skillsets, technology, team member availability, etc, may arise as the project goes forward. As we discussed in class, there are three options available to deal with project management risks: monitor it (Watch it), mitigate it (do something about it), accept it (give up). For milestone one, you should identify the major sources of risk and what you plan to do about them. Prepare a risk list and rank them by risk level using the standard formula, i.e. `impact x likelihood`, to describe the top 5 risks that might affect your team's ability to pull off the tasks identified in your timeline and dictated by your objectives.
@@ -93,6 +98,8 @@ Your risk list will be graded as follows:
 |Name and description| Risk name and description are appropriate and understandable. | Some risks are unclear. | Most or all risk are unclearly described or descriptions are missing. |
 |Coverage and relevance | Identified risks are relevant to the project and cover obvious potential problem areas. | Some coverage or relevance is missing. | Risks do not address obvious potential problem areas or aren't relevant.
 
+**40 points**
+
 ## Project Methodology
 Methodology is extremely important for conducting a successful project. While I am always a fan of "winging it" when it comes to day-to-day life - winging it is not an option for being successful on a team. Hence, in this class you will be required to develop a technical plan (AKA `Methodology`) to succeed. Your methodology should be grounded in scientific method and best practice. It should be based on the literature in the area you are working on and should use well-tested methods when possible.
 
@@ -116,6 +123,7 @@ Your methodology (Lit review and Technical Plan) will be graded as follows.
 |Coverage| The literature review includes a range of topics and research relevant to the problem. | There are some areas that are not surveyed in the literature | The literature review is incomplete with respect to coverage |
 |Depth| Important sources that stand out in the literature are reviewed and discussed in detail. It is clear that the team has properly reviewed the cited works. | Some important references are not properly discussed in-depth. Questions exist as to the type or application of the cited works. | Many ill-defined or poorly sourced references.|
 
+**60 points**
 #### Technical Plan
 || Meets expectations (27-30) | Some Issues (20-26) | Does not meet expectations (0-19)|
 |---|---|---|---|
@@ -124,6 +132,7 @@ Your methodology (Lit review and Technical Plan) will be graded as follows.
 |Soundness| The technical plan is rooted in scientific method and the plan is well designed. | Some methodological issues may exist, but by and large the plan is sound. | Many issues exist in the design of the plan. |
 |Scope| The technical plan is properly scoped for the duration of the class. | There are some scoping issues (too much/too little work). | Many scoping issues exist and/or the plan is unachievable. |
 
+**120 points**
 ## Resources Needed
 Every team needs *something* to pull off their project. Clearly identify the technologies and products involved in your project.
 
@@ -153,6 +162,7 @@ You will be graded as follows:
 |Coverage| A reasonable set of resources are listed that are appropriate to your project.|Some missing critical resources that are needed but not listed. | Many critical resources are needed, but not listed.|
 |Conforms to structure| Entries follow tabular format specified. Each resource has an assigned team member investigating it. | Some issues following structure. | Table not formatted or many issues.|
 
+**20 points**
 ## First Sprint Plan
 This milestone represents the first step forward in your capstone project. As part of that effort, you need to plan your first real sprint.
 
