@@ -87,6 +87,7 @@ Students will follow certification and accreditation techniques using best pract
 
 ### Project Milestones
 * [Capstone Milestone 1 rubric](./projects/milestone1.md) - Tentatively Due Feb. 15th
+* [Milestone 1 Team Evaluation Form](https://unomaha.az1.qualtrics.com/jfe/form/SV_cRTOOEVUU2nol01)
 * [Capstone Milestone 2 rubric](./projects/milestone2.md) - Tentatively Due Mar. 28th
 * [Capstone Final Milestone rubric](./projects/milestone3.md) - Tenteatively Due May 3rd, Final Presentation TBA
 
