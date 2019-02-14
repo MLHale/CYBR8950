@@ -87,7 +87,7 @@ Students will follow certification and accreditation techniques using best pract
 
 ### Project Milestones
 * [Capstone Milestone 1 rubric](./projects/milestone1.md) - Tentatively Due Feb. 15th
-* [Capstone Milestone 2 rubric](./projects/milestone2.md) - Tentatively Due Mar. 25th
+* [Capstone Milestone 2 rubric](./projects/milestone2.md) - Tentatively Due Mar. 28th
 * [Capstone Final Milestone rubric](./projects/milestone3.md) - Tenteatively Due May 3rd, Final Presentation TBA
 
 #### Evaluation form
@@ -171,9 +171,9 @@ Regardless of your Track you will do the following.
 ### Grading Breakdown (see schedule for tentative due dates)
 - (10%) Participation score (meetings, short tutorial participation, etc)
 - (10%) Project Proposal / Description
-- (25%) Semester Project Milestone 1 - ([rubric TBA]())
-- (25%) Semester Project Milestone 2 - ([rubric TBA]())
-- (30%) Semester Project Milestone Final - ([rubric TBA]())
+- (25%) Semester Project Milestone 1
+- (25%) Semester Project Milestone 2
+- (30%) Semester Project Milestone Final
 
 Each project milestone will have a specific grading rubric that includes the core requirements for the project, any required intermediate milestone goals (such as short progress meetings with the instructor), the project due date, and the list of items that must be submitted. Each project will include a presentation component to be presented in class on the project due date. Projects build upon each other. The final Project is considered to be comprehensive. This means that <i>there is no final exam</i>. Final Project presentations will be presented according to the schedule
 
