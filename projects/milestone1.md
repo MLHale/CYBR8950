@@ -172,6 +172,19 @@ This part of the milestone is strictly captured by GitHub Projects (its a `Kanba
 ### Grading Criteria
 No fancy grading rubric here. You will receive points for participating (as measured by the activity flow) in GitHub. If you are not taking tasks or helping to manage the project managment space, chances are you won't get these points.
 
+**20 points**
+
+## Presentation
+You will be expected to present your Milestone 1 proposal to the class. It is important that you use this time to inform your classmates and get feedback. Things to be considered are 1) conveying a sense of interest and excitement about your project 2) cool product demos, and 3) interesting findings of conducting your projects.
+
+### Submission Materials
+Submit your slides to Dr. Hale on slack by posting and pinning them in your team slack channel.
+
+### Grading Criteria
+You will be graded by a presentation rubric on canvas.
+
+**Total 60 points.**
+
 ## Teamwork
 Lastly, it is important that you realize you are working on a TEAM (except for the few of you that are soloing). I will say now, that your grade is dependent on your participation. I will not allow individuals to sluff off on a team. Your grade is therefore based partly on a *participation factor*. Essentially if you don't participate (and trust me We will know) - you will not get all of the team points on your project grade.
 
@@ -187,6 +200,7 @@ Your final grade on the milestone is computed as follows:
 1. Team evaluations
 
 If you do your work and participate, you will get the full team poitns (**participation_factor**=1), if you don't, you will get as little as 40% of the team points. This means that you can **FAIL** even if your team succeeds. - So don't sluff off.
+
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CYBER4580 and related works</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://faculty.ist.unomaha.edu/mlhale" property="cc:attributionName" rel="cc:attributionURL">Matt Hale</a> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
