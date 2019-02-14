@@ -183,7 +183,7 @@ Submit your slides to Dr. Hale on slack by posting and pinning them in your team
 ### Grading Criteria
 You will be graded by a presentation rubric on canvas.
 
-**Total 60 points.**
+**Total 70 points.**
 
 ## Teamwork
 Lastly, it is important that you realize you are working on a TEAM (except for the few of you that are soloing). I will say now, that your grade is dependent on your participation. I will not allow individuals to sluff off on a team. Your grade is therefore based partly on a *participation factor*. Essentially if you don't participate (and trust me We will know) - you will not get all of the team points on your project grade.
