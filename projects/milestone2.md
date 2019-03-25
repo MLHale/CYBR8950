@@ -1,9 +1,9 @@
 # CYBR4580/8950 Project Milestone 2: Non-trival Deliverable Increment
-**Assigned: Wednesday 2/28/18**
+**Assigned: Wednesday 2/28/19**
 **Total 270points**
 
 ## Due Date
-Monday Mar. 26th (3/26/18) at 11:59PM
+Thursday Mar. 28th (3/28/19) at 11:59PM
 
 ## Overview
 This project milestone tasks you with producing your first major deliverable. Since every project is different the requirements stated below are as generally applicable as possible.
