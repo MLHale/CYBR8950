@@ -51,7 +51,7 @@ Please fill out the survey at: https://unomaha.az1.qualtrics.com/jfe/form/SV_1Hs
 | April 1st | 13 | Work on Milestone 3. |
 | April 8th | 14 | Work on Milestone 3. |
 | April 15th | 15 | Work on Milestone 3. |
-| April 22nd | 16 | Final reports due! Final 25minute presentations + 5 minute Q/A, random order. |
+| April 22nd | 16 | Work on Milestone 3 |
 | April 29th | 17 | Final presentations (Final in-class presentation on Thursday May 2nd @ 5:30PM)|
 
 ## Location
