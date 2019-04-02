@@ -86,11 +86,11 @@ In this track students will select or be assigned an existing product or system 
 Students will follow certification and accreditation techniques using best practices and security controls from standards documents (such as the NIST 800-53).
 
 ### Project Milestones
-* [Capstone Milestone 1 rubric](./projects/milestone1.md) - Tentatively Due Feb. 15th
+* [Capstone Milestone 1 rubric](./projects/milestone1.md) - Due Feb. 15th
 * [Milestone 1 Team Evaluation Form](https://unomaha.az1.qualtrics.com/jfe/form/SV_cRTOOEVUU2nol01)
-* [Capstone Milestone 2 rubric](./projects/milestone2.md) - Tentatively Due Mar. 28th
+* [Capstone Milestone 2 rubric](./projects/milestone2.md) - Due Mar. 28th
 * [Milestone 2 Team Evaluation Form](https://unomaha.az1.qualtrics.com/jfe/form/SV_cRTOOEVUU2nol01)
-* [Capstone Final Milestone rubric](./projects/milestone3.md) - Tenteatively Due May 3rd, Final Presentation TBA
+* [Capstone Final Milestone rubric](./projects/milestone3.md) - Due May 2nd, Final Presentation May 2nd
 
 #### Evaluation form
 For team projects, please use the evaluation form below to assess your teammates.
