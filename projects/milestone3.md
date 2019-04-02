@@ -160,7 +160,27 @@ If you are a graduate student, you must, in addition to your team work contribut
 - Contextualize the research literature as it relates to your project - What are other people / companies / labs doing that is similar to your work?
 
 ### Submission materials
-You will submit a paper as a word document (.doc or .docx) to Dr. Hale. Use the 
+You will submit a paper as a word document (.doc or .docx) to Dr. Hale. Format your paper using the [ACM paper template](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout-.docx). This template is a two column format. Your paper should be somewhere between 5-10 pages in length (including figures). Your paper should include the following sections:
+
+- Abstract
+- Introduction
+- Background
+- (your sections go here) e.g. Methodology, Results 
+- Conclusion
+
+### Grading Criteria
+Your paper will be graded on a 100 point scale (from 0 to 100). It will not be graded via rubric, but the following guidelines will be used to assess the paper.
+
+- Does the abstract succinctly summarize the work? Does it state the high level problem and address how the work contributes to solving the problem?
+- Claims made by the authors should be supported by appropriate research in the literature. References and citing should be used as appropriate. A works-cited set of references should be maintained and accurately included in the paper.
+- Introduction - The paper should overview a problem, summarize effort by others towards addressing the problem, and identify how the project work contributes to filling gaps in other efforts.
+- Background - Sufficient and relevant literature should be summarized and properly cited - including use of appropriately formatted referencing, as appropriate. 
+- Sections addressing the problem and outcomes of the project should be well stated and overview the contributions of the authors. These might include, as an example a methodology section followed by a results section. 
+- A conclusion section should highlight the salient outcomes of the paper and reinforce the findings with appropriate analysis or conclusive synthesis. 
+- Grammar and spelling - The paper should be free of grammar and spelling errors. 
+- Writing style - The paper should have a cohesive narrative flow that maintains the reader's interest. 
+
+The quality of submission is understood to be a class paper. I do recognize that time is a limiting factor. If students decide to submit a shared graduate student paper among their teammates, I will expect the quality to be higher, given the reduced time burden associated with the group work.
 
 #### License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CYBER4580 and related works</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://faculty.ist.unomaha.edu/mlhale" property="cc:attributionName" rel="cc:attributionURL">Matt Hale</a> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
