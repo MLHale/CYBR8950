@@ -6,6 +6,7 @@
 ## Due Date
 Thursday May 2nd (5/2/19) at 11:59pm
 Presentations Tuesday May 2nd (5/2/19) at 5 pm
+(Grad student only) Research paper due Friday May 3rd (5/3/19) at 11:59PM
 **No Extensions will be given!!!**
 
 ## Overview
