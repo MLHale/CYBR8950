@@ -186,7 +186,7 @@ Each project milestone will have a specific grading rubric that includes the cor
 ### Group Work
 Students will work in groups. The instructor in this class will assign the groups. The capstone class is like the real world – you don’t always get to have your way! Each group will have five members, although obviously there may be an odd group or two depending on the class list. Students in Track 1 will have three undergraduates from CYBR 4580 and two graduate students from CYBR 8950. Students in Track 2 will have all five members from CYBR 4580.
 
-Group projects will include an individual participation grade worth 60% of the total group points, e.g. a group may make a 100% on a particular project, but an individual with low participation in the group may make a 60%. Participation will be anonymously rated by other group team members and the instructor.
+Group projects will include an individual participation grade worth 60% of the total group points, e.g. a group may make a 100% on a particular project, but an individual with low participation in the group may make a 40%. Participation will be anonymously rated by other group team members and the instructor.
 
 ### Team formation
 The instructor reserves the right to make a change to any team or any project during the course of the semester for any reason that may or may not be disclosed. Project rescoping will be performed in this event.
