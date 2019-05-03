@@ -91,6 +91,7 @@ Students will follow certification and accreditation techniques using best pract
 * [Capstone Milestone 2 rubric](./projects/milestone2.md) - Due Mar. 28th
 * [Milestone 2 Team Evaluation Form](https://unomaha.az1.qualtrics.com/jfe/form/SV_cRTOOEVUU2nol01)
 * [Capstone Final Milestone rubric](./projects/milestone3.md) - Due May 2nd, Final Presentation May 2nd
+* [Milestone 3 Team Evaluation Form](https://unomaha.az1.qualtrics.com/jfe/form/SV_cRTOOEVUU2nol01)
 
 #### Evaluation form
 For team projects, please use the evaluation form below to assess your teammates.
