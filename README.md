@@ -47,7 +47,7 @@ Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and u
  | November 19 | 13 | Work on Milestone 3. Team meetings. |
  | November 26 | 14 | Work on Milestone 3. Team meetings. |
  | December 3 | 15 | Work on Milestone 3. Team meetings. |
- | December 10 | 16 | Prep week |
+ | December 10 | 16 | Finish Milestone 3. Team meetings. (Prep week) |
  | December 17 | 17 | Milestone 3 Due. Final Presentations (Start at 5:00 PM) |
 
 
@@ -110,7 +110,7 @@ Form TBA
 
 
 ### Project Process
-Regardless of your Track you will do the following.
+Regardless of your project type, you will do the following:
 ![Project Selection Process](assets/README-29c61104.png)
 
 ## Non-project work
