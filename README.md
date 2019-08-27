@@ -233,6 +233,7 @@ Regardless of your project type, you will do the following:
 - (20%) Semester Project Milestone 1 (Proposal)
 - (30%) Semester Project Milestone 2 (Mid point)
 - (35%) Semester Project Milestone 3 (Final)
+  - Grad students have an additional research paper requirement as part of their final submission.
 
 Each project milestone will have a specific grading rubric that includes the core requirements for the project, any required intermediate milestone goals (such as short progress meetings with the instructor), the project due date, and the list of items that must be submitted. Each project will include a presentation component to be presented in class on the project due date. Projects build upon each other. The final Project is considered to be comprehensive. This means that <i>there is no final exam</i>. Final Project presentations will be presented according to the schedule
 
