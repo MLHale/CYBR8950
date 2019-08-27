@@ -34,9 +34,9 @@ Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and u
  |-------|------|---------|
  | August 27 | 1 | Course introduction, ideation, form pitches.  |
  | September 3 | 2 | 5-10 minute presentations on your pitches, form teams, begin working on full proposal (Milestone 1) |
- | September 10 | 3 | Project management tooling lab. Work on proposal (milestone 1). |
- | September 17 | 4 | Work on proposal (milestone 1). Team meetings. |
- | September 24 | 5 | Milestone 1 due, 20 minute presentations + 5 minute Q/A, random order. Milestone 2 assigned. |
+ | September 10 | 3 | Project management tooling lab. Team meetings. Work on proposal (milestone 1). |
+ | September 17 | 4 | Milestone 1 due, 20 minute presentations + 5 minute Q/A, random order. Milestone 2 assigned. |
+ | September 24 | 5 | Work on Milestone 2. Team meetings. |
  | October 1 | 6 | Work on Milestone 2. Team meetings. |
  | October 8 | 7 | Work on Milestone 2. Team meetings. |
  | October 15 | 8 | Work on Milestone 2. Team meetings. |
@@ -99,7 +99,7 @@ Students will follow certification and accreditation techniques using best pract
 
 ### Project Milestones
 * [Capstone Pitches](.projects/pitch.md) - Due September 3rd by class time. Submission on Canvas.
-* [Capstone Milestone 1 rubric](./projects/milestone1.md) - Due September 24th by class time. Submit link to Canvas, files to GitHub.
+* [Capstone Milestone 1 rubric](./projects/milestone1.md) - Due September 17th by class time. Submit link to Canvas, files to GitHub.
 * [Capstone Milestone 2 rubric](./projects/milestone2.md) - Due October 29th by class time. Submit link to Canvas, files to GitHub.
 * [Capstone Milestone 3 rubric (final)](./projects/milestone2.md) - Due December 17th by class time. Submit link to Canvas, files to GitHub.
 
