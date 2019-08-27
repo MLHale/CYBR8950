@@ -8,7 +8,7 @@ The class materials are best viewed at [https://mlhale.github.io/CYBR4580-8950/]
 In this course, students will extend and apply their knowledge, accumulated from their undergraduate/graduate studies, towards defining, implementing, and assessing secured information systems. Students will demonstrate their ability to specify, apply, and assess different types of countermeasures at different points in a system or enterprise.
 
 ## Table of contents
-<!-- TOC START min:1 max:3 link:true asterisk:false update:true -->
+<!-- TOC START min:1 max:3 link:true asterisk:false update:false -->
 - [CYBR4580/8950](#cybr45808950)
   - [Viewing these materials](#viewing-these-materials)
   - [Overview](#overview)
@@ -88,14 +88,14 @@ In this project type, students will select an existing product or system and rig
 #### A note about difficulty
 Neither breaking nor making are necessarily more difficult than one another. Project difficulty is expected to be relatively uniform and tasking throughout the semester will be roughly equivalent in work hours, even if the nature of the work is quite different by type.
 
-### Project Tracks
+<!-- ### Project Tracks
 #### Track 1: Problems in National Information Security.
 Students in this track will bid on, and be asked to perform research in directed areas under the supervision of an external partner, typically a national lab or federal agency. These will be directed projects with an external Technical Director that the group will report to. The undergrad students in this track will be working in conjunction with graduate students in the graduate capstone class.de, unit/acceptance tests, and testing results.
 
 #### Track 2: Industry partners or UNO organizations
 In this track students will select or be assigned an existing product or system to develop or evaluate. Projects may originate from external local companies or internal UNO organizations.
 
-Students will follow certification and accreditation techniques using best practices and security controls from standards documents (such as the NIST 800-53).
+Students will follow certification and accreditation techniques using best practices and security controls from standards documents (such as the NIST 800-53). -->
 
 ### Project Milestones
 
@@ -111,7 +111,7 @@ Form TBA
 
 ### Project Process
 Regardless of your Track you will do the following.
-![Project Selection Process](assets/README-2461166f.png)
+![Project Selection Process](assets/README-29c61104.png)
 
 ## Non-project work
 - Introduction to the course (optional)
@@ -228,10 +228,10 @@ Regardless of your Track you will do the following.
 
 ### Grading Breakdown (see schedule for tentative due dates)
 - (10%) Participation score (meetings, short tutorial participation, etc)
-- (10%) Project Proposal / Description
-- (15%) Semester Project Milestone 1 
-- (30%) Semester Project Milestone 2
-- (35%) Semester Project Milestone Final 
+- (5%) Project pitch
+- (20%) Semester Project Milestone 1 (Proposal)
+- (30%) Semester Project Milestone 2 (Mid point)
+- (35%) Semester Project Milestone 3 (Final)
 
 Each project milestone will have a specific grading rubric that includes the core requirements for the project, any required intermediate milestone goals (such as short progress meetings with the instructor), the project due date, and the list of items that must be submitted. Each project will include a presentation component to be presented in class on the project due date. Projects build upon each other. The final Project is considered to be comprehensive. This means that <i>there is no final exam</i>. Final Project presentations will be presented according to the schedule
 
