@@ -98,7 +98,7 @@ In this track students will select or be assigned an existing product or system 
 Students will follow certification and accreditation techniques using best practices and security controls from standards documents (such as the NIST 800-53). -->
 
 ### Project Milestones
-* [Capstone Pitches](.projects/pitch.md) - Due September 3rd by class time. Submission on Canvas.
+* [Capstone Pitches](./projects/pitch.md) - Due September 3rd by class time. Submission on Canvas.
 * Milestone Rubrics TBA
 <!-- * [Capstone Milestone 1 rubric](./projects/milestone1.md) - Due September 17th by class time. Submit link to Canvas, files to GitHub.
 * [Capstone Milestone 2 rubric](./projects/milestone2.md) - Due October 29th by class time. Submit link to Canvas, files to GitHub.
