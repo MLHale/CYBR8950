@@ -16,32 +16,9 @@ In this course, students will extend and apply their knowledge, accumulated from
   - [Online Discussion Area (Slack)](#online-discussion-area-slack)
   - [Location](#location)
   - [Projects](#projects)
-    - [Project types](#project-types)
-    - [Project Tracks](#project-tracks)
-    - [Project Milestones](#project-milestones)
-    - [Project Process](#project-process)
   - [Non-project work](#non-project-work)
   - [Former (Public) Projects](#former-public-projects)
-    - [2019](#2019)
-    - [2018](#2018)
-    - [2017](#2017)
   - [Syllabus](#syllabus)
-    - [Date/Time: Tuesday 5:30pm – 8:10pm](#datetime-tuesday-530pm--810pm)
-    - [Instructor:  Dr. Hale](#instructor--dr-hale)
-    - [Office:  PKI 174-D, (402) 554-3978](#office--pki-174-d-402-554-3978)
-    - [Office Hours:  By appointment or walk-ins anytime the door is open](#office-hours--by-appointment-or-walk-ins-anytime-the-door-is-open)
-    - [E-mail:  mlhale@unomaha.edu (please message me on slack instead of emailing)](#e-mail--mlhaleunomahaedu-please-message-me-on-slack-instead-of-emailing)
-    - [Grading Breakdown (see schedule for tentative due dates)](#grading-breakdown-see-schedule-for-tentative-due-dates)
-    - [Attendance](#attendance)
-    - [Group Work](#group-work)
-    - [Team formation](#team-formation)
-    - [Service Learning / Real World Customers](#service-learning--real-world-customers)
-    - [Project Extensions and Late work](#project-extensions-and-late-work)
-    - [Special accommodations for students with disabilities](#special-accommodations-for-students-with-disabilities)
-    - [Special accommodations for active duty or reserve military](#special-accommodations-for-active-duty-or-reserve-military)
-    - [Plagiarism](#plagiarism)
-    - [Ethics](#ethics)
-    - [Work Retainment](#work-retainment)
   - [License](#license)
 <!-- TOC END -->
 
@@ -49,6 +26,7 @@ In this course, students will extend and apply their knowledge, accumulated from
 I have setup an online discussion board on slack.com for usage in this class. I can create some private channels for you to work in with your project teams (once created), but I want to be able to participate in your conversations - so please use the space on slack.
 
 Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and use your unomaha email address to register an account. This will give you access to the course discussion and project collaboration spaces. Use the the general channel, your project channel, or private messages. I expect all project-related communication to live in your slack channel. If you need my attention please use the `@mlhale` syntax to get my attention.
+
  <!-- (or `@Bill Mahoney ` to get Bill's). -->
 
  ## Tentative Class Schedule
@@ -107,16 +85,20 @@ In this project type, students will design, build, and secure a new full-fledged
 #### Breakers
 In this project type, students will select an existing product or system and rigorously evaluate it using a combination of system, network, and software testing methods. Relevant artifacts generated will include reversed design docs (i.e. an understanding of how the product works), vulnerability surface analysis documentation, test cases, and analysis results.
 
+#### A note about difficulty
+Neither breaking nor making are necessarily more difficult than one another. Project difficulty is expected to be relatively uniform and tasking throughout the semester will be roughly equivalent in work hours, even if the nature of the work is quite different by type.
+
 ### Project Tracks
 #### Track 1: Problems in National Information Security.
 Students in this track will bid on, and be asked to perform research in directed areas under the supervision of an external partner, typically a national lab or federal agency. These will be directed projects with an external Technical Director that the group will report to. The undergrad students in this track will be working in conjunction with graduate students in the graduate capstone class.de, unit/acceptance tests, and testing results.
 
 #### Track 2: Industry partners or UNO organizations
-In this track students will select or be assigned an existing product or system to develop or evaluate. Projects may originate with external local companies or internal UNO organizations.
+In this track students will select or be assigned an existing product or system to develop or evaluate. Projects may originate from external local companies or internal UNO organizations.
 
 Students will follow certification and accreditation techniques using best practices and security controls from standards documents (such as the NIST 800-53).
 
 ### Project Milestones
+
 * [Capstone Milestone 1 rubric](./projects/milestone1.md) - Due September 24th by class time.
 * [Capstone Milestone 2 rubric](./projects/milestone2.md) - Due October 29th by class time.
 * [Capstone Milestone 3 rubric (final)](./projects/milestone2.md) - Due December 17th by class time.
@@ -125,6 +107,7 @@ Students will follow certification and accreditation techniques using best pract
 For team projects, please use the evaluation form below to assess your teammates.
 Form TBA
 <!-- [https://unomaha.az1.qualtrics.com/jfe/form/SV_6PYfOXdb4KpMtyB](https://unomaha.az1.qualtrics.com/jfe/form/SV_6PYfOXdb4KpMtyB) -->
+
 
 ### Project Process
 Regardless of your Track you will do the following.
@@ -144,16 +127,16 @@ Regardless of your Track you will do the following.
 
 <!-- ## Class Topics
 - Intro to the class
-- Review of software engineering ([Lecture 2](/lectures/lecture2.pdf), [Lecture 3 PDF](/lectures/lecture3.pdf))
+- Review of software engineering ([slides](./lectures/lecture2.pdf)
   - Software Architectures
   - Software design principles
   - Security in the Software development lifecycle
-- Test-driven Development Practices ([Lecture 4 pdf](lectures/lecture4.pdf))
+- Test-driven Development Practices
   - Unit testing
   - Acceptance criteria
   - think-test-build-test-repeat
   - Blackbox testing
-- Review of certification and assessment ([Lecture 5 pdf](lectures/lecture5.pdf))
+- Review of certification and assessment
   - Security controls, countermeasures, etc
   - Standards Documents: NIST SP800-53, FIPS200, 800-33, etc
   - Assessment tools
@@ -236,6 +219,7 @@ Regardless of your Track you will do the following.
   * Paul Stratman
 
 ## Syllabus
+
 ### Date/Time: Tuesday 5:30pm – 8:10pm
 ### Instructor:  Dr. Hale
 ### Office:  PKI 174-D, (402) 554-3978
@@ -259,7 +243,7 @@ Students will work in groups. The instructor in this class will assign the group
 
 <!-- Students in Track 1 will have three undergraduates from CYBR 4580 and two graduate students from CYBR 8950. Students in Track 2 will have all five members from CYBR 4580. -->
 
-Group projects will include an individual participation grade worth 50% of the total group points, e.g. a group may make a 100% on a particular project, but an individual with low participation in the group may make a 50%. Participation will be anonymously rated by other group team members and the instructor.
+Group projects will include an individual participation grade worth 60% of the total group points, e.g. a group may make a 100% on a particular project, but an individual with low participation in the group may make a 40%. Participation will be anonymously rated by other group team members and the instructor.
 
 ### Team formation
 The instructor reserves the right to make a change to any team or any project during the course of the semester for any reason that may or may not be disclosed. Project rescoping will be performed in this event.

@@ -1,9 +1,9 @@
 # CYBR4580/8950 Project Milestone 2: Non-trival Deliverable Increment
-**Assigned: Wednesday 2/28/18**
+**Assigned: Wednesday 2/28/19**
 **Total 270points**
 
 ## Due Date
-Monday Mar. 26th (3/26/18) at 11:59PM
+Thursday Mar. 28th (3/28/19) at 11:59PM
 
 ## Overview
 This project milestone tasks you with producing your first major deliverable. Since every project is different the requirements stated below are as generally applicable as possible.
@@ -57,7 +57,7 @@ Your team will be graded as follows:
 |---|---|---|---|
 | Effort and progress | It is clear that the team has made non-trivial effort and progress towards project realization.| There is some evidence of effort and progress, but more could have been done in the time. | Little effort or progress was made.|
 | Documentation | Code artifacts and tasks are documented well. Documentation is clear and illustrative. | Some code is documented, but large portions are not. | Little or no documentation.|
-| Demonstrable Outcomes | The outcomes are successfully demoed for Drs. Hale and Mahoney. The team addresses and handles questions well. | The demo partially works, but there are some significant issues. | Many significant issues with artifacts (e.g. code, documents, etc).|
+| Demonstrable Outcomes | The outcomes are successfully demoed for Dr. Hale. The team addresses and handles questions well. | The demo partially works, but there are some significant issues. | Many significant issues with artifacts (e.g. code, documents, etc).|
 
 
 **Total 120 points.**
@@ -106,7 +106,7 @@ This part of the milestone is strictly captured by your Kanban board. In your Ka
 You will be expected to present your Milestone 2 achievements to the class following the deadline. It is important that you use this time to both inform your classmates of your activities and to practice for your final presentation. Things to be considered are 1) conveying a sense of interest and excitement about your project 2) cool product demos, and 3) interesting findings of conducting your projects.
 
 ### Submission Materials
-Submit your slides to Dr. Hale / Dr. Mahoney by the presentation days (TBA on slack). Submit them by posting and pinning them in your team slack channel.
+Submit your slides to Dr. Hale by the presentation days (TBA on slack). Submit them by posting and pinning them in your team slack channel.
 
 ### Grading Criteria
 You will be graded by a presentation rubric TBA.
