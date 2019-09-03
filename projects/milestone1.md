@@ -1,7 +1,7 @@
 ## CYBR4580/8950 Project Milestone 1: Requirements analysis and planning (Project Proposal Stage)
 
 ### Due Date
-Febuary 15th
+September 17th by class time
 
 **Submit a GitHub repo link to canvas**
 **Add Dr. Hale as a collaborator on your GitHub Repo**
