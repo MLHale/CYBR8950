@@ -1,23 +1,39 @@
 # CYBR4580/8950 Project Milestone 2: Non-trival Deliverable Increment
-**Assigned: Wednesday 2/28/19**
-**Total 270points**
+**Total 330 points**
 
 ## Due Date
-Thursday Mar. 28th (3/28/19) at 11:59PM
+October 29th by class time
+
+**Submit a GitHub repo link to canvas**
+**Add Dr. Hale as a collaborator on your GitHub Repo**
 
 ## Overview
 This project milestone tasks you with producing your first major deliverable. Since every project is different the requirements stated below are as generally applicable as possible.
 
-
+- [Setup Environments](#environment-setup) - Establish needed tooling and work environments
 - [Project realization](#project-realization) - Clearly document your efforts towards achieving the project methodology.
   - Identify tasks achieved from your backlog
   - Document the product increments (an agile term for the things you produce) generated in this milestone
   - Bind tasks, code artifacts, and documentation together
-- [Process / Conceptual Model (aka diagrams)](#diagrams) - Encapsulate your efforts diagrammatically
+- [Visual understanding (aka diagrams)](#diagrams) - Encapsulate your efforts diagrammatically
 - [Next Milestone planning](#next-milestone-plan) - Create a plan on your kanban board for your next milestone
 - [Presentation](#presentation) - Present your progress to the class
 
+## Environment setup
+Regardless of the type of project you are working on, you will need some work environments. You should determine tooling needs, document their usage/installation/configuration and include that information in your project repostiory.
 
+### Submission materials
+Include your setup instructions in your main repository-level README.md file. The instructions should provide a clear pathway to setting up and configuring needed tools to begin working on your project. For maker-based projects this might be software dependencies and coding libraries or establishing some build files (in something like Docker). For breaker-based projects it might be creating VMs or docker containers to containerize the target of investigations.
+
+#### Grading Criteria
+Your team will be graded as follows:
+
+| | Meets expectations (27-30) | Some Issues (16-26) | Does not meet expectations (0-15)|
+|---|---|---|---|
+| Documentation | Documentation is clear and concise, but provides sufficient detail to understand the basic setup details. | Some documentation exists, but it is piecemeal or not entirely clear. | Little or no setup/configuration documentation or it is very hard to follow.|
+| Works as expected | Installation instructions work as expected and correctly setup needed tooling/environments.  | Some minor problems during setup, but instructions mostly work. | Many significant issues in instructions makes setup difficult or impossible. |
+
+**Total 60 points.**
 
 ## Project realization
 The bulk of the project work is centered on realizing the methodology you defined in Milestone 1. Here, you should identify the tasks you have achieved, document the product or other intellectual/applied outcomes that have resulted from your efforts, and bind your tasks to the outcomes and documentation you have produced so far.
@@ -80,15 +96,15 @@ Conceptual Model:
 * [http://boxesandarrows.com/conceptual-models-in-a-nutshell/](http://boxesandarrows.com/conceptual-models-in-a-nutshell/)
 
 ### Submission materials
-You should create your diagrams using an architectural tool such as Lucidchart, MS Visio, or similar tools. You should include the diagram in your main project README.md file and in your Progress report in your GitHub repo, as an image and/or link to Lucidchart.
+You should create your diagrams using an architectural tool such as Lucidchart, MS Visio, or similar tools. You should include the diagrams in your main project README.md file and in your Progress report in your GitHub repo, as images and (where appropriate) include links to Lucidchart/other platforms.
 
 ### Grading Criteria
-You should have produce **at least three diagrams** relevant to your project, each will be graded as follows:
+You should produce diagrams relevant to your project. Diagrams will be graded as follows:
 
-| | Meets expectations (9-10) | Some Issues (6-8) | Does not meet expectations (0-5)|
+| | Meets expectations (27-30) | Some Issues (16-26) | Does not meet expectations (0-15)|
 |---|---|---|---|
-| Relevant | The diagram is useful for conveying project details. | There are some issues that prevent the diagram from contributing to understanding | The diagram is tangential or not present. |
-| Descriptive | The diagram clarifies the interoperation or operation of a feature of interest. It provides descriptive clarity. | The diagram provides limited descriptive clarity. | The diagram doesn't help the viewer understand the process/model/architecture. |
+| Relevant | The diagrams are useful for conveying project details. | There are some issues that prevent the diagrams from contributing to understanding | The diagrams are tangential or not present. |
+| Descriptive | The diagrams clarify the interoperation or operation of a feature of interest. They provides descriptive clarity. | The diagrams provides limited descriptive clarity. | The diagrams do not help the viewer understand the project. |
 
 **Total 60 points.**
 
