@@ -1,6 +1,7 @@
 # CYBR4580/8950 Final Project Milestone (Milestone 3): Final Delivery Increment, Packaging, and Release
 
-380 Total Points
+350 Total Points
+(grad students only) separate 100 point assignment for research paper
 
 ## Due Date
 Tuesday December 17th at 5pm (class presentation time)  
@@ -140,9 +141,9 @@ Presentations will be graded using the following rubric. Each student on a team 
 
 | | Meets expectations (80-100% | Some Issues (50-80%)| Does not meet expectations (0-50%)|
 |---|---|---|---|
-| Organization of Presentation (20pts) | Team presents information in a logical, interesting sequence which the audience can easily follow. | Audience has some difficulty following presentation because of non-sequitur jumps of logic and sequencing. | Audience cannot understand or follow the presentation because there is poor or no sequencing of information |
-| Comprehensive context coverage (20pts) | Team overviews relevant elements of the project (including goals, findings, outcomes, etc) succinctly, while using time well to focus on the most important and salient project outcomes. | Team misses some context but the project is presented in a broadly understandable way. | Team misses many elements of the project making it difficult for audience to understand their work without more context. |
-| Demonstration of Outcomes (20pts) | The team provides an effective demo or representation of their project outcomes. | Team partially demonstrates outcomes. | Team does not demonstrate project outcomes. |
+| Organization of Presentation (10pts) | Team presents information in a logical, interesting sequence which the audience can easily follow. | Audience has some difficulty following presentation because of non-sequitur jumps of logic and sequencing. | Audience cannot understand or follow the presentation because there is poor or no sequencing of information |
+| Comprehensive context coverage (10pts) | Team overviews relevant elements of the project (including goals, findings, outcomes, etc) succinctly, while using time well to focus on the most important and salient project outcomes. | Team misses some context but the project is presented in a broadly understandable way. | Team misses many elements of the project making it difficult for audience to understand their work without more context. |
+| Demonstration of Outcomes (10pts) | The team provides an effective demo or representation of their project outcomes. | Team partially demonstrates outcomes. | Team does not demonstrate project outcomes. |
 | Subject Knowledge (10pts) | Thorough understanding and grasp of the project is demonstrable. Students answer all questions with explanations and elaboration as appropriate. | Some gaps in knowledge are evident. Students fail to answer some questions with appropriate detail. | Large gaps in knowledge are evident. Students fail to answer most questions or fail to provide sufficient detail. |
 | Graphics (10pts) | Graphics are used effectively to explain and reinforce screen text as appropriate. | A few graphics are used, but some areas of the presentation are missing graphics when they could be key to better understanding. | Few or no graphics are used. Team relies too much on text in slides. |
 | Professional (10pts) | Slides have few or no misspellings, grammatical errors, or unprofessional content. No inappropriate memes or things of this nature are present. | A few misspellings, grammatical errors, or unprofessional items are included in the content. | Large reliance on inappropriate memes, multiple misspellings or grammatical errors are evident. |
@@ -150,7 +151,7 @@ Presentations will be graded using the following rubric. Each student on a team 
 
 * Note that Demos may include videos if the conditions necessary to replicate the demo cannot be re-created in a live in-class demo.
 
-**Total 100 points.**
+**Total 70 points.**
 
 ## Graduate student paper
 If you are a graduate student, you must, in addition to your team work contributions, also complete a research paper about your project work. The research paper may be completed independently or working with other graduate students in your group (where applicable). In either case, the paper must generalize the findings and effort of your project for field/domain specific audiences relevant to your project. Your paper should highlight the most significant outcomes of your project work, properly contextualize the work with existing research in cybersecurity (or other relevant fields) and generalize the findings for broader academic and industrial use. You should keep in mind how your findings could contribute to best practices, ongoing research efforts, and/or practitioners in industry. 
