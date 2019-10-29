@@ -1,12 +1,13 @@
 # CYBR4580/8950 Final Project Milestone (Milestone 3): Final Delivery Increment, Packaging, and Release
-**Assigned: Thursday 3/28**
 
 380 Total Points
 
 ## Due Date
-Thursday May 2nd (5/2/19) at 11:59pm  
+Tuesday December 17th at 5pm (class presentation time)
+(Grad student only) Research paper due December 17th at 11:59PM
+<!-- Thursday May 2nd (5/2/19) at 11:59pm  
 Presentations Tuesday May 2nd (5/2/19) at 5 pm  
-(Grad student only) Research paper due Friday May 3rd (5/3/19) at 11:59PM  
+(Grad student only) Research paper due Friday May 3rd (5/3/19) at 11:59PM   -->
 **No Extensions will be given!!!**
 
 ## Overview
@@ -63,12 +64,12 @@ Your team will be graded as follows:
 
 
 ## Final Report: Packaging and Release
-An important part of developing or assessing a product is making the product or results accessible to those that might want to use it or them. This part of the final milestone tasks you with preparing your product, code, processes, and/or other relevant results for release by using relevant deployment strategies and by creating appropriate companion documentation. It is expected that every team will create a final report for release and review by partnering companies and organizations. All projects with code or other requirements must prepare a list of installation instructions and run instructions necessary to install and run any required apps.
+An important part of developing or assessing a product is making the product or results accessible to those that might want to use it or them. This part of the final milestone tasks you with preparing your product, code, processes, and/or other relevant results for release by using relevant deployment strategies and by creating appropriate companion documentation. It is expected that every team will create a final report for release and review by partnering companies and organizations. All projects with code or other requirements must prepare a list of installation instructions and run instructions necessary to install and run any required apps. All projects examining existent systems must prepare a list of steps to reproduce their analysis.
 
 ### Code artifact Expectations
 Expectations:
  * Polish your product by squashing as many bugs as possible and cleaning up the user interface.
- * Package your code and/or deployment environment for release using relevant deployment solutions such as [github](https://github.com/), [docker](https://www.docker.com/), [npm](https://docs.npmjs.com/getting-started/creating-node-modules), [bower](https://bower.io/docs/creating-packages/), [apt-get](https://help.launchpad.net/Packaging/PPA), [Python pip](https://packaging.python.org/distributing/), etc. The simplist deployment solution is creating a github repository that is cloneable and has a few short install instructions. Other solutions like docker can be helpful in situations where the deployment environment context is complex or depends on certain versions of supporting software. Others like npm, bower, apt-get, or pip are useful for libraries that others might want to install or add to their own projects.
+ * Package your code and/or deployment environment for release using relevant deployment solutions such as [github](https://github.com/), [docker](https://www.docker.com/), [npm](https://docs.npmjs.com/getting-started/creating-node-modules), [bower](https://bower.io/docs/creating-packages/), [apt-get](https://help.launchpad.net/Packaging/PPA), [Python pip](https://packaging.python.org/distributing/), etc. The simplest deployment solution is creating a GitHub repository that is cloneable and has a few short install instructions. Other solutions like docker can be helpful in situations where the deployment environment context is complex or depends on certain versions of supporting software. Others like npm, bower, apt-get, or pip are useful for libraries that others might want to install or add to their own projects.
  * Create ```installation``` and ```getting started``` instructions using markdown in their repository or documentation to detail what an end-user must do to setup their app or product.
 
 ### Results and findings Expectations
@@ -115,10 +116,10 @@ For this submission, you should submit your final report as a `.md` file called 
 ### Grading Criteria
 | | Meets expectations (33-40) | Some Issues (25-32) | Does not meet expectations (0-24)|
 |---|---|---|---|
-|Polish|Team has made clear efforts to prepare the results/product/app/etc for release. | Some bugs / user interface oddities / inconsistency of results are present, but overall some polish is evident. | The results/product/app are incompleted or inconsistent and/or not ready for release. |
+|Polish|Team has made clear efforts to prepare the results/product/app/etc for release. | Some bugs / user interface oddities / inconsistency of results are present, but overall some polish is evident. | The results/product/app are incomplete or inconsistent and/or not ready for release. |
 |Packaging and Deployment| The results/product/app/etc is packaged and ready to be shipped to the customer as appropriate (i.e. results are documented well, products/apps are in a deployable / packaged state. | Some effort has been made to package results / code / resources / etc, but the packaging/deployment isn't fully successful making it difficult for the consumer to use the results of the project. | Little to no effort has been made to package the results/product/code for release and it is unusable by the customer. |
 |Documentation Accuracy| Documentation is consistent and accurate. Assumptions are stated appropriately and/or getting started/installation instructions work as stated without issue. | Some documentation is missing or incorrect. | Many documentation artifacts are missing or inaccurate.|
-|Activity and Findings Summary| Findings from project activities have been summaried at a high level and are presented in a tabular or graphical format that is easy to read and understand. Diagrams and visual aids are used effectively where needed. | Findings are missing from the summary or are difficult to read and understand as presented. | Little or no efforts were made to summarize findings and results are very difficult to read and understand. |
+|Activity and Findings Summary| Findings from project activities have been summarized at a high level and are presented in a tabular or graphical format that is easy to read and understand. Diagrams and visual aids are used effectively where needed. | Findings are missing from the summary or are difficult to read and understand as presented. | Little or no efforts were made to summarize findings and results are very difficult to read and understand. |
 |Final Report Structure|The team prepares an overall report from existing documentation generated during the project. The report includes the assessment and finding summaries and connects the findings to existing documentation in the project repository. The final report is comprehensive. | Some report items are missing, or the report does not link to all activities and findings. | Little effort has been made to compile results of semester-long activities and results.|
 
 **Total 200 points.**
@@ -157,7 +158,7 @@ If you are a graduate student, you must, in addition to your team work contribut
 
 - What is the focus of your project, at a high level?
 - How is your project significant within cybersecurity? 
-- What findings from your project relate to cybersecurity best practices or on-going academic / industrial research and development? How might other practioners or researchers use your work in the field?
+- What findings from your project relate to cybersecurity best practices or on-going academic / industrial research and development? How might other practitioners or researchers use your work in the field?
 - Contextualize the research literature as it relates to your project - What are other people / companies / labs doing that is similar to your work?
 
 ### Submission materials
