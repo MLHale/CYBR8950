@@ -3,7 +3,7 @@
 380 Total Points
 
 ## Due Date
-Tuesday December 17th at 5pm (class presentation time)
+Tuesday December 17th at 5pm (class presentation time)  
 (Grad student only) Research paper due December 17th at 11:59PM
 <!-- Thursday May 2nd (5/2/19) at 11:59pm  
 Presentations Tuesday May 2nd (5/2/19) at 5 pm  
