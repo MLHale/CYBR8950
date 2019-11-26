@@ -145,7 +145,7 @@ Regardless of your project type, you will do the following:
 ## Former (Public) Projects
 ### 2019
 (all projects this year were team projects)
-* [MITRE Cyber Competition](https://github.com/KendrickU/mitre2019Nullify)
+* [MITRE Cyber Competition](https://github.com/KendrickU/mitre2019Nullify) --Private repo 
   - Kendrick Urbaniak 
   - (others unlisted)
 * [Stream Splitting Moving Target Defense](https://github.com/xoBalt/Capstone-Stream-Splitting-MTD)
