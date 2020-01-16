@@ -16,7 +16,7 @@ In this course, students will extend and apply their knowledge, accumulated from
   - [Online Discussion Area (Slack)](#online-discussion-area-slack)
   - [Location](#location)
   - [Projects](#projects)
-  - [Non-project work](#non-project-work)
+<!--  - [Non-project work](#non-project-work)-->
   - [Former (Public) Projects](#former-public-projects)
   - [Syllabus](#syllabus)
   - [License](#license)
@@ -73,7 +73,7 @@ Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and u
  | May 7 | 17 | Milestone 3 Due. Final Presentations (Start at 5:30 PM) |
 
 ## Location
-All classroom activities will take place in PKI room 161 unless otherwise noted ahead of time.
+All classroom activities will take place in PKI room 164 (or via Zoom for the 820 section) unless otherwise noted ahead of time. Due to the nature of the course, often meeting rooms will be used for the individual teams meeting.
 
 ## Projects
 The structure of the course accommodates two types of projects.
