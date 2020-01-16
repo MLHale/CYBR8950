@@ -99,7 +99,7 @@ In this track students will select a project from those projects pitched in the 
 In this track students will select or be assigned an existing product or system to develop or evaluate. Projects may originate from external local companies or internal UNO organizations.
 
 ### Project Milestones
-* [Capstone Pitches](./projects/pitch.md) - Due Jan. 23 by class time. Submission on Canvas.
+* [Capstone Pitches](./projects/pitch.md) - Due Jan. 23 by class time. Submission on Canvas.  
 [Capstone Milestone 1 rubric](./projects/milestone1.md) - Due Feb. 6th by class time. Submit link to Canvas, files to GitHub.
 * [Capstone Milestone 2 rubric](./projects/milestone2.md) - Due March 19th by class time. Submit link to Canvas, files to GitHub.
 * [Capstone Milestone 3 rubric (final)](./projects/milestone3.md) - Due May 7th by class time. Submit link to Canvas, files to GitHub.
