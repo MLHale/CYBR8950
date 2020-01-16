@@ -1,4 +1,4 @@
-# CYBR4580/8950
+# CYBR8950
 This repository contains a digitized version of the course content for the CYBR 4580/8950 Certification and Accreditation capstone course at the University of Nebraska at Omaha.
 
 ## Viewing these materials
