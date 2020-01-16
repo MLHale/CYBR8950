@@ -29,7 +29,7 @@ Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and u
 
  <!-- (or `@Bill Mahoney ` to get Bill's). -->
 
- ## Tentative Class Schedule
+ <!--## Tentative Class Schedule
  | Dates | Week | Activity|
  |-------|------|---------|
  | August 27 | 1 | Course introduction, ideation, form pitches.  |
@@ -49,28 +49,28 @@ Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and u
  | December 3 | 15 | Work on Milestone 3. Team meetings. |
  | December 10 | 16 | Finish Milestone 3. Team meetings. (Prep week) |
  | December 17 | 17 | Milestone 3 Due. Final Presentations (Start at 5:00 PM) |
+-->
 
-
-<!-- ## Tentative Class Schedule
-| Dates | Week | Activity|
-|-------|------|---------|
-| January 8th | 1 | Course introduction. Cybersecurity is everywhere.|
-| January 15th | 2 | Thoughts on Software Engineering. Track 1 bids due January 19!|
-| January 22nd | 3 | 15minute presentations on your bids in random order. |
-| January 29th | 4 | Work on Proposals |
-| February 5th | 5 | Proposals due February 9! |
-| February 12th | 6 | Milestone 1 due, 25minute presentations + 5 minute Q/A, random order. Milestone 2 assigned. |
-| February 19th | 7 | Continue milestone 1 presentations. Work on Milestone 2. |
-| February 26th | 8 | Work on Milestone 2. Track 1 progress reports due March 2! Track 1 presentations either March 2 or 9! |
-| March 5th | 9 | Work on Milestone 2. Track 1 progress reports due March 7! Track 1 presentations March 9! |
-| March 12th | 10 | Work on Milestone 2. |
-| March 19th | 11 | (Spring Break) No class |
-| March 26th | 12 | Milestone 2 due, 25minute presentations + 5 minute Q/A, random order. Milestone 3 assigned. |
-| April 2nd | 13 | Work on Milestone 3. |
-| April 9th | 14 | Work on Milestone 3. |
-| April 16th | 15 | Work on Milestone 3. |
-| April 23rd | 16 | Track 1 final reports due April 27! Track 1 presentation either April 27 or May 4! Final Milestone, 25minute presentations + 5 minute Q/A, random order. |
-| April 30th | | Final is scheduled for 5:00 PM Tuesday May 1. We will use this time to finish up the final presentations if needed. | -->
+## Tentative Class Schedule
+ | Dates | Week | Activity|
+ |-------|------|---------|
+ | January 16 | 1 | Course introduction, ideation, form pitches.  |
+ | January 23 | 2 | Intro to Research, short pitch presentations, form teams, begin working on full proposal (Milestone 1) |
+ | January 30 | 3 | Project management tooling lab. Team meetings. Work on proposal (milestone 1). |
+ | February 6 | 4 | Milestone 1 due, 20 minute presentations + 5 minute Q/A, random order. Milestone 2 assigned. |
+ | February 13 | 5 | Work on Milestone 2. Team meetings. |
+ | February 20 | 6 | Work on Milestone 2. Team meetings. |
+ | February 27 | 7 | Work on Milestone 2. Team meetings. |
+ | March 5 | 8 | Work on Milestone 2. Team meetings. |
+ | March 12 | 9 | Work on Milestone 2. Team meetings.  |
+ | March 19 | 10 | Milestone 2 due, 25minute presentations + 5 minute Q/A, random order. Milestone 3 assigned. |
+ | March 26 | 11 | No class - Spring break. |
+ | April 2 | 12 | Work on Milestone 3. Team meetings. |
+ | April 9 | 13 | Work on Milestone 3. Team meetings. |
+ | April 16 | 14 | Work on Milestone 3. Team meetings. |
+ | April 23 | 15 | Work on Milestone 3. Team meetings. |
+ | April 30 | 16 | Finish Milestone 3. Team meetings. (Prep week) |
+ | May 7 | 17 | Milestone 3 Due. Final Presentations (Start at 5:30 PM) |
 
 ## Location
 All classroom activities will take place in PKI room 161 unless otherwise noted ahead of time.
@@ -90,29 +90,30 @@ Neither breaking nor making are necessarily more difficult than one another. Pro
 
 <!-- ### Project Tracks
 #### Track 1: Problems in National Information Security.
-Students in this track will bid on, and be asked to perform research in directed areas under the supervision of an external partner, typically a national lab or federal agency. These will be directed projects with an external Technical Director that the group will report to. The undergrad students in this track will be working in conjunction with graduate students in the graduate capstone class.de, unit/acceptance tests, and testing results.
+Students in this track will bid on, and be asked to perform research in directed areas under the supervision of an external partner, typically a national lab or federal agency. These will be directed projects with an external Technical Director that the group will report to. The undergrad students in this track will be working in conjunction with graduate students in the graduate capstone class.de, unit/acceptance tests, and testing results.-->
+
+#### Track 1: Student-team created projects
+In this track students will select a project from those projects pitched in the first week of class. Projects will be curated from students by Dr. Hale.
 
 #### Track 2: Industry partners or UNO organizations
 In this track students will select or be assigned an existing product or system to develop or evaluate. Projects may originate from external local companies or internal UNO organizations.
 
-Students will follow certification and accreditation techniques using best practices and security controls from standards documents (such as the NIST 800-53). -->
-
 ### Project Milestones
-* [Capstone Pitches](./projects/pitch.md) - Due September 3rd by class time. Submission on Canvas.
-[Capstone Milestone 1 rubric](./projects/milestone1.md) - Due September 17th by class time. Submit link to Canvas, files to GitHub.
-* [Capstone Milestone 2 rubric](./projects/milestone2.md) - Due October 29th by class time. Submit link to Canvas, files to GitHub.
-* [Capstone Milestone 3 rubric (final)](./projects/milestone3.md) - Due December 17th by class time. Submit link to Canvas, files to GitHub.
+* [Capstone Pitches](./projects/pitch.md) - Due Jan. 23 by class time. Submission on Canvas.
+[Capstone Milestone 1 rubric](./projects/milestone1.md) - Due Feb. 6th by class time. Submit link to Canvas, files to GitHub.
+* [Capstone Milestone 2 rubric](./projects/milestone2.md) - Due March 19th by class time. Submit link to Canvas, files to GitHub.
+* [Capstone Milestone 3 rubric (final)](./projects/milestone3.md) - Due May 7th by class time. Submit link to Canvas, files to GitHub.
 
-#### Evaluation form
+<!-- #### Evaluation form
 For team projects, please use the evaluation form below to assess your teammates.
 [https://unomaha.az1.qualtrics.com/jfe/form/SV_bj9ZaDDYbhrWhkV](https://unomaha.az1.qualtrics.com/jfe/form/SV_bj9ZaDDYbhrWhkV) 
-
+-->
 
 ### Project Process
 Regardless of your project type, you will do the following:
 ![Project Selection Process](assets/README-29c61104.png)
 
-## Non-project work
+<!--## Non-project work
 - Introduction to the course (optional)
   - [Github primer](/modules/github/README.md)
   - [Container primer](/modules/containers/README.md)
@@ -123,8 +124,7 @@ Regardless of your project type, you will do the following:
   - Agile methods for development and assessment
   - Using collaboration tools
   - Keeping track of efforts
-
-<!-- ## Class Topics
+ ## Class Topics
 - Intro to the class
 - Review of software engineering ([slides](./lectures/lecture2.pdf)
   - Software Architectures
@@ -231,9 +231,8 @@ Regardless of your project type, you will do the following:
 - (20%) Semester Project Milestone 1 (Proposal)
 - (30%) Semester Project Milestone 2 (Mid point)
 - (35%) Semester Project Milestone 3 (Final)
-  - Grad students have an additional research paper requirement as part of their final submission.
 
-Each project milestone will have a specific grading rubric that includes the core requirements for the project, any required intermediate milestone goals (such as short progress meetings with the instructor), the project due date, and the list of items that must be submitted. Each project will include a presentation component to be presented in class on the project due date. Projects build upon each other. The final Project is considered to be comprehensive. This means that <i>there is no final exam</i>. Final Project presentations will be presented according to the schedule
+Each project milestone will have a specific grading rubric that includes the core requirements for the project, any required intermediate milestone goals (such as short progress meetings with the instructor), the project due date, and the list of items that must be submitted. Each project will include a presentation component to be presented in class on the project due date. Projects build upon each other. The final Project is considered to be comprehensive. This means that <i>there is no final exam</i>. Final Project presentations will be presented according to the schedule.
 
 ### Attendance
 - Class Attendance: You must attend team meetings and presentations. You will receive participation points for being present during team meetings and presentations. 
@@ -282,6 +281,6 @@ In addition, the instructor retains the right to use any code or project artifac
 
 ## License
 CYBR Capstone
-Copyright (C) 2016-2019  Dr. Matthew L. Hale
+Copyright (C) 2016-2020  Dr. Matthew L. Hale
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CYBER4580/CYBR 8950 and related works</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://faculty.ist.unomaha.edu/mlhale" property="cc:attributionName" rel="cc:attributionURL">Matt Hale</a> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
