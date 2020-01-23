@@ -1,7 +1,7 @@
 ## CYBR4580/8950 Project Milestone 1: Requirements analysis and planning (Project Proposal Stage)
 
 ### Due Date
-September 17th by class time
+February 13 by class time
 
 **Submit a GitHub repo link to canvas**
 **Add Dr. Hale as a collaborator on your GitHub Repo**
@@ -15,7 +15,7 @@ This project milestone tasks you with identifying project requirements, analyzin
   - Merit of the Project
 - [Proposed project timeline](#proposed-project-timeline) - When will you do it?
   - Define the tasks and expected time to completion
-  - Create and submit a gantt chart
+  - Create and submit a gantt chart or other planning chart
 - [Project-oriented risk list](#risk-list) - What could go wrong in the project and why?
 - [Project Methodology](#project-methodology) - What has been done in the literature and what is your technical plan?
 - [Resources/Technology needed](#resources-needed) - What do you need to be successful?
@@ -117,14 +117,15 @@ Any data collection, testing/development methods, architectures, and data analys
 ### Grading Criteria
 Your methodology (Lit review and Technical Plan) will be graded as follows.
 
-#### Lit review
+#### Initial Lit review
 || Meets expectations (27-30) | Some Issues (20-26) | Does not meet expectations (0-19)|
 |---|---|---|---|
 |Coverage| The literature review includes a range of topics and research relevant to the problem. | There are some areas that are not surveyed in the literature | The literature review is incomplete with respect to coverage |
 |Depth| Important sources that stand out in the literature are reviewed and discussed in detail. It is clear that the team has properly reviewed the cited works. | Some important references are not properly discussed in-depth. Questions exist as to the type or application of the cited works. | Many ill-defined or poorly sourced references.|
+|Use of structured Abstracts| The team uses structured abstract formats for their annotated bibliography. The structured abstracts are informative and useful for later. | The format is used, but annotations are not informative. | The format is not used or the annotations are poor and uninformative. |
 
-**60 points**
-#### Technical Plan
+**90 points**
+#### Initial Technical Plan
 || Meets expectations (27-30) | Some Issues (20-26) | Does not meet expectations (0-19)|
 |---|---|---|---|
 |Coverage| The technical plan overviews all of the areas required to be successful in the project. | Some work is not considered, but will be required. | Many missing areas of work. |
