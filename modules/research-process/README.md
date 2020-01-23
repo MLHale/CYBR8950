@@ -4,7 +4,7 @@ Conducting research well means understanding the process by which we discover ne
 ## Overview
 Overall, research begins when someone thinks about something they want to investigate. Exact questions may not be clear at first, but need to be constructed before research proceeds to far. The figure below overviews this process.
 
-![Overview of process](./img/overall.png)
+![Overview of process](./overall.png)
 > Img credit: Matt Hale, 2020
 
 ## Focus on literature review and paper filtering processes
@@ -12,7 +12,7 @@ Important within the overall process is the mechanism by which one chooses to do
 
 The process below hones into the literature review block from the overall figure to better clarify how one might go about conducting a literature review. Generally, literature review continues over the life of the project.
 
-![literature review](./img/lit-review.png)
+![literature review](./lit-review.png)
 > Img credit: Matt Hale, 2020
 
 ## Structured Abstracts
