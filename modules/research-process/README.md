@@ -28,3 +28,8 @@ Structured abstracts are a certain type of annotated bibliography that uses a st
 
 ![structured abstracts](./abstract3.png)
 > Img credit: Robin Gandhi, 2019
+
+## Additional resources
+[Cybersecurity Skills Journal](https://www.csj.nationalcyberwatch.org/) - a journal focused on cybersecurity skills in the workforce.
+
+Müller-Bloch, Christoph, and Johann Kranz. ["A framework for rigorously identifying research gaps in qualitative literature reviews."](https://pdfs.semanticscholar.org/7359/6c4957deab7c7a3fd1d4261994e47be1508c.pdf?_ga=2.222366163.95809279.1579792521-1621840368.1579792521) (2015).
