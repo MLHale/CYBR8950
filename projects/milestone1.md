@@ -176,7 +176,7 @@ No fancy grading rubric here. You will receive points for participating (as meas
 **20 points**
 
 ## Presentation
-You will be expected to present your Milestone 1 proposal to the class. It is important that you use this time to inform your classmates and get feedback. Things to be considered are 1) conveying a sense of interest and excitement about your project 2) cool product demos, and 3) interesting findings of conducting your projects.
+You will be expected to present your Milestone 1 proposal to the class. It is important that you use this time to inform your classmates and get feedback. Things to be considered are 1) conveying a sense of interest and excitement about your project, 2) soliciting feedback from peers that might be useful for development or refinement of the project, and 3) presenting your methodology and scope to get recommendations from peers and the instructor.
 
 ### Submission Materials
 Submit your slides to Dr. Hale on slack by posting and pinning them in your team slack channel.
