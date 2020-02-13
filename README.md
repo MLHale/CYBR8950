@@ -106,10 +106,10 @@ In this track students will select or be assigned an existing product or system 
 * [Capstone Milestone 2 rubric](./projects/milestone2.md) - Due March 19th by class time. Submit link to Canvas, files to GitHub.
 * [Capstone Milestone 3 rubric (final)](./projects/milestone3.md) - Due May 7th by class time. Submit link to Canvas, files to GitHub.
 
-<!-- #### Evaluation form
-For team projects, please use the evaluation form below to assess your teammates.
-[https://unomaha.az1.qualtrics.com/jfe/form/SV_bj9ZaDDYbhrWhkV](https://unomaha.az1.qualtrics.com/jfe/form/SV_bj9ZaDDYbhrWhkV) 
--->
+#### Evaluation form
+Please use the evaluation form below to assess your teammates.
+[https://unomaha.az1.qualtrics.com/jfe/form/SV_78KSInR45r2vV89](https://unomaha.az1.qualtrics.com/jfe/form/SV_78KSInR45r2vV89) 
+
 
 ### Project Process
 Regardless of your project type, you will do the following:
