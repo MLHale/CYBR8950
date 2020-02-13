@@ -30,7 +30,7 @@ Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and u
  <!-- (or `@Bill Mahoney ` to get Bill's). -->
 
  <!--## Tentative Class Schedule
-
+<!--
  | Dates | Week | Activity|
  |-------|------|---------|
  | August 27 | 1 | Course introduction, ideation, form pitches.  |
