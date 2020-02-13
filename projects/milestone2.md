@@ -1,8 +1,8 @@
-# CYBR4580/8950 Project Milestone 2: Non-trival Deliverable Increment
-**Total 330 points**
+# CYBR4580/8950 Project Milestone 2: Non-trival Deliverable Increment and Research Paper Outline
+**Total 410 points**
 
 ## Due Date
-October 29th by class time
+March 19th by class time
 
 **Submit a GitHub repo link to canvas**
 **Add Dr. Hale as a collaborator on your GitHub Repo**
@@ -15,8 +15,9 @@ This project milestone tasks you with producing your first major deliverable. Si
   - Identify tasks achieved from your backlog
   - Document the product increments (an agile term for the things you produce) generated in this milestone
   - Bind tasks, code artifacts, and documentation together
+- [Research Paper Outline](#research-paper-outline) - Draft your Research Paper
 - [Visual understanding (aka diagrams)](#diagrams) - Encapsulate your efforts diagrammatically
-- [Next Milestone planning](#next-milestone-plan) - Create a plan on your kanban board for your next milestone
+- [Issue Tracking / Planning](#issue-tracking-and-planning) - Stay organized with approrpriate tracking of tasks
 - [Presentation](#presentation) - Present your progress to the class
 
 ## Environment setup
@@ -78,6 +79,22 @@ Your team will be graded as follows:
 
 **Total 120 points.**
 
+## Research Paper Outline
+You should focus, as part of this milestone, on drafting an outline of your research paper. The emphasis of this process is to prepare an outline early enough in the semester to work with Dr. Hale to refine it into your eventual paper. Even though you may not know all of your results and findings yet, you should be able to draft the skeleton of the paper and start drafting sections of the paper such as your literature review and methodology.
+
+### Submission materials
+Submit a draft document containing your outline on canvas using the milestone 2 project assignment. The outline can be in any document format, but .docx is preferable. 
+
+### Grading Criteria
+Your outline will not be graded using a rubric, but it is expected to meet the following requirements. 
+
+1. Contains a well-written 500 word or less abstract that previews the argument to be made in the paper.
+1. Has defined section headings for each of the sections you expect to have in your paper
+1. Has a bulleted list of talking points you expect to fall within each section
+1. Section headings and bullets build a narrative flow that is compatibile with your main research argument.
+
+**Total: 80 points**
+
 ## Diagrams
 In addition to the project documentation, you should produce a set of process or conceptual diagrams suited to your project. This could be a set of activity diagrams for penetration-testing oriented projects, it could be software architecture diagrams for development-oriented projects, or it could be a process/conceptual model for other projects.
 
@@ -109,11 +126,19 @@ You should produce diagrams relevant to your project. Diagrams will be graded as
 **Total 60 points.**
 
 
-## Next Milestone planning
-Plan the next milestone. In the next (and final milestone) - you will 1) continue to work towards realizing your methodology, 2) polish your product/outcomes and prepare them for release, and 3) aggregate your results into a single final report for release to vendors or other relevant entities.
+## Issue Tracking and Planning
+You should continue to document tasking related to your project following milestone 1. Use the issue tracker and/or Kanban board features in your GitHub repo to track your progress. I hope to see a sufficient number, specificity, and allocation of tasks to each person. 
+
+### Graditing criteria
+
+| | Meets expectations (16-20) | Some Issues (11-15) | Does not meet expectations (0-10)|
+|---|---|---|---|
+| Coverage | Sufficient tasks commensurate with the duration of the milestone are defined. Each task is specific and relevant to the project. Forward progress is made on most tasks. | There are too few tasks and/or many tasks are not very specific or relevant to your project. | There are too few or no tasks. Most tasks are not specific or relevant to the project and/or there is little-to-no progress evident. |
+| Allocation and status | Issues are all marked with a status tag or cards are placed in the appropriate column in the kanban. Each is in the backlog, finished and in the 'done' category, or allocated to someone for handling as part of the current sprint. | Some issues are marked up accordingly, but not all. | Many issues have not been appropriately updated. Status tags are clearly out of date or cards are not placed in appropriate columns. |
+
 
 ### Submission materials
-This part of the milestone is strictly captured by your Kanban board. In your Kanban board, create a board following the structure used in Milestone 1. Use this structure to identify the tasks that you will tackle in your next sprint. Put those tasks in the **Sprint To-do** category.
+This part of the milestone is strictly captured by your Kanban board and/our issue tracker. 
 
 ### Grading Criteria
 **Total 30 points.**
