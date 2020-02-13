@@ -1,5 +1,5 @@
 # CYBR4580/8950 Project Milestone 2: Non-trival Deliverable Increment and Research Paper Outline
-**Total 410 points**
+**Total 420 points**
 
 ## Due Date
 March 19th by class time
@@ -142,7 +142,7 @@ This category will be graded as follows:
 This part of the milestone is strictly captured by your Kanban board and/our issue tracker. 
 
 ### Grading Criteria
-**Total 30 points.**
+**Total 40 points.**
 
 ## Presentation
 You will be expected to present your Milestone 2 achievements to the class following the deadline. It is important that you use this time to both inform your classmates of your activities and to practice for your final presentation. Things to be considered are 1) conveying a sense of interest and excitement about your project 2) cool product demos, and 3) interesting findings of conducting your projects.
