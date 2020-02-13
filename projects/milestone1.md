@@ -118,7 +118,7 @@ Any data collection, testing/development methods, architectures, and data analys
 Your methodology (Lit review and Technical Plan) will be graded as follows.
 
 #### Initial Lit review
-|| Meets expectations (27-30) | Some Issues (20-26) | Does not meet expectations (0-19)|
+| | Meets expectations (27-30) | Some Issues (20-26) | Does not meet expectations (0-19)|
 |---|---|---|---|
 |Coverage| The literature review includes a range of topics and research relevant to the problem. | There are some areas that are not surveyed in the literature | The literature review is incomplete with respect to coverage |
 |Depth| Important sources that stand out in the literature are reviewed and discussed in detail. It is clear that the team has properly reviewed the cited works. | Some important references are not properly discussed in-depth. Questions exist as to the type or application of the cited works. | Many ill-defined or poorly sourced references.|
@@ -126,7 +126,7 @@ Your methodology (Lit review and Technical Plan) will be graded as follows.
 
 **90 points**
 #### Initial Technical Plan
-|| Meets expectations (27-30) | Some Issues (20-26) | Does not meet expectations (0-19)|
+| | Meets expectations (27-30) | Some Issues (20-26) | Does not meet expectations (0-19)|
 |---|---|---|---|
 |Coverage| The technical plan overviews all of the areas required to be successful in the project. | Some work is not considered, but will be required. | Many missing areas of work. |
 |Depth| The technical plan contains sufficient detail to understand and define exactly what will be done in the project. | Some technical details are missing or unclear. | Many technical details are missing or unclear. |
