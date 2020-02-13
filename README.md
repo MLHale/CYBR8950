@@ -52,25 +52,25 @@ Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and u
 -->
 
 ## Tentative Class Schedule
- | Dates | Week | Activity|
- |-------|------|---------|
- | January 16 | 1 | Course introduction, ideation, form pitches.  |
- | January 23 | 2 | [Intro to Research](/modules/research-process/README.md), short pitch presentations, form teams, begin working on full proposal (Milestone 1) |
- | January 30 | 3 | Project management tooling lab. Team meetings. Work on proposal (milestone 1). |
- | February 6 | 4 | Work on proposal (milestone 1). |
- | February 13 | 5 | Milestone 1 due, 20 minute presentations + 5 minute Q/A, random order. Milestone 2 assigned.  |
- | February 20 | 6 | Work on Milestone 2. Team meetings. |
- | February 27 | 7 | Work on Milestone 2. Team meetings. |
- | March 5 | 8 | Work on Milestone 2. Team meetings. |
- | March 12 | 9 | Work on Milestone 2. Team meetings.  |
- | March 19 | 10 | Milestone 2 due, 25minute presentations + 5 minute Q/A, random order. Milestone 3 assigned. |
- | March 26 | 11 | No class - Spring break. |
- | April 2 | 12 | Work on Milestone 3. Team meetings. |
- | April 9 | 13 | Work on Milestone 3. Team meetings. |
- | April 16 | 14 | Work on Milestone 3. Team meetings. |
- | April 23 | 15 | Work on Milestone 3. Team meetings. |
- | April 30 | 16 | Finish Milestone 3. Team meetings. (Prep week) |
- | May 7 | 17 | Milestone 3 Due. Final Presentations (Start at 5:30 PM) |
+| Dates | Week | Activity|
+|-------|------|---------|
+| January 16 | 1 | Course introduction, ideation, form pitches.  |
+| January 23 | 2 | [Intro to Research](/modules/research-process/README.md), short pitch presentations, form teams, begin working on full proposal (Milestone 1) |
+| January 30 | 3 | Project management tooling lab. Team meetings. Work on proposal (milestone 1). |
+| February 6 | 4 | Work on proposal (milestone 1). |
+| February 13 | 5 | Milestone 1 due, 20 minute presentations + 5 minute Q/A, random order. Milestone 2 assigned.  |
+| February 20 | 6 | Work on Milestone 2. Team meetings. |
+| February 27 | 7 | Work on Milestone 2. Team meetings. |
+| March 5 | 8 | Work on Milestone 2. Team meetings. |
+| March 12 | 9 | Work on Milestone 2. Team meetings.  |
+| March 19 | 10 | Milestone 2 due, 25minute presentations + 5 minute Q/A, random order. Milestone 3 assigned. |
+| March 26 | 11 | No class - Spring break. |
+| April 2 | 12 | Work on Milestone 3. Team meetings. |
+| April 9 | 13 | Work on Milestone 3. Team meetings. |
+| April 16 | 14 | Work on Milestone 3. Team meetings. |
+| April 23 | 15 | Work on Milestone 3. Team meetings. |
+| April 30 | 16 | Finish Milestone 3. Team meetings. (Prep week) |
+| May 7 | 17 | Milestone 3 Due. Final Presentations (Start at 5:30 PM) |
 
 ## Location
 All classroom activities will take place in PKI room 164 (or via Zoom for the 820 section) unless otherwise noted ahead of time. Due to the nature of the course, often meeting rooms will be used for the individual teams meeting.
