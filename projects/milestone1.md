@@ -96,7 +96,7 @@ Your risk list will be graded as follows:
 |Impact| Each risk has an identified impact factor. Factor should be based on how significant the event would be towards the disruption of your project activities. | Some factors missing or unreasonable. | No factors identified or factors are completely unreasonable |
 |Likelihood | Each risk has an identified likelihood factor. Factor is reasonable. | Some factors missing or unreasonable | No factors identified or factors are completely unreasonable |
 |Name and description| Risk name and description are appropriate and understandable. | Some risks are unclear. | Most or all risk are unclearly described or descriptions are missing. |
-|Coverage and relevance | Identified risks are relevant to the project and cover obvious potential problem areas. | Some coverage or relevance is missing. | Risks do not address obvious potential problem areas or aren't relevant.
+|Coverage and relevance | Identified risks are relevant to the project and cover obvious potential problem areas. | Some coverage or relevance is missing. | Risks do not address obvious potential problem areas or aren't relevant. |
 
 **40 points**
 
