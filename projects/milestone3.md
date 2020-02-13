@@ -114,6 +114,7 @@ A suggested format for the final report is as follows:
 For this submission, you should submit your final report as a `.md` file called `finalreport.md` or `README.md` (to make it your default page) in your project GitHub repository. You should also convert the md file to pdf and upload it as `finalreport.pdf` for use on other non-web-based file stores. 
 
 ### Grading Criteria
+
 | | Meets expectations (33-40) | Some Issues (25-32) | Does not meet expectations (0-24)|
 |---|---|---|---|
 | Polish and effort | Team has made clear and sufficient effort commensurate with project scope over the life of the capstone project. Findings  demonstrates polish and significant effort. | Some bugs / user interface oddities / inconsistency of results are present, but overall some polish is evident. | The results/product/app are incomplete, inconsistent, and/or not ready for release. Limited or no effort is evident in the findings. |
