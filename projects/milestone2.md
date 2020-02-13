@@ -130,6 +130,7 @@ You should produce diagrams relevant to your project. Diagrams will be graded as
 You should continue to document tasking related to your project following milestone 1. Use the issue tracker and/or Kanban board features in your GitHub repo to track your progress. I hope to see a sufficient number, specificity, and allocation of tasks to each person. 
 
 ### Graditing criteria
+This category will be graded as follows:
 
 | | Meets expectations (16-20) | Some Issues (11-15) | Does not meet expectations (0-10)|
 |---|---|---|---|
@@ -147,10 +148,10 @@ This part of the milestone is strictly captured by your Kanban board and/our iss
 You will be expected to present your Milestone 2 achievements to the class following the deadline. It is important that you use this time to both inform your classmates of your activities and to practice for your final presentation. Things to be considered are 1) conveying a sense of interest and excitement about your project 2) cool product demos, and 3) interesting findings of conducting your projects.
 
 ### Submission Materials
-Submit your slides to Dr. Hale by the presentation days (TBA on slack). Submit them by posting and pinning them in your team slack channel.
+Submit your slides to Dr. Hale by the presentation days. Submit them by posting and pinning them in your team slack channel and via canvas.
 
 ### Grading Criteria
-You will be graded by a presentation rubric TBA.
+You will be graded by a presentation rubric.
 
 **Total 60 points.**
 
