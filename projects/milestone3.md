@@ -161,7 +161,7 @@ If you are a graduate student, you must, in addition to your team work contribut
 *Warning* This paper is not a simple term paper! Short, poorly written work that does not synthesize concepts or build cohesive narrative will not suffice.-->
 
 ### Submission materials
-You will submit a paper as a word document (.doc or .docx) to Dr. Hale. Format your paper using the [ACM paper template](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout-.docx). This template is a two column format. Your paper should be no more than 10 pages in length (including figures). It is recommended that you fit your results into the following (fairly standard) paper structure.
+You will submit a paper as a word document (.doc or .docx) to Dr. Hale. Format your paper using the [ACM paper template](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout.docx). This template is a two column format. Your paper should be no more than 10 pages in length (including figures). It is recommended that you fit your results into the following (fairly standard) paper structure.
 
 - Abstract
 - Introduction
