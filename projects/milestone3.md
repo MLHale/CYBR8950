@@ -4,12 +4,10 @@
 (grad students only) separate 100 point assignment for research paper
 
 ## Due Date
-Tuesday December 17th at 5pm (class presentation time)  
-(Grad student only) Research paper due December 17th at 11:59PM
-<!-- Thursday May 2nd (5/2/19) at 11:59pm  
-Presentations Tuesday May 2nd (5/2/19) at 5 pm  
-(Grad student only) Research paper due Friday May 3rd (5/3/19) at 11:59PM   -->
-**No Extensions will be given!!!**
+<!-- Tuesday December 17th at 5pm (class presentation time)  
+(Grad student only) Research paper due December 17th at 11:59PM -->
+Thursday May 7th (5/7/19) at 11:59pm  
+Presentations Tuesday May 7th (5/2/19) at 5 pm (via zoom) 
 
 ## Overview
 This project milestone tasks you with producing your final major deliverable. Since every project is different the requirements stated below are as stated as generally as possible.
@@ -148,16 +146,20 @@ Presentations will be graded using the following rubric. Each student on a team 
 | Subject Knowledge (10pts) | Thorough understanding and grasp of the project is demonstrable. Students answer all questions with explanations and elaboration as appropriate. | Some gaps in knowledge are evident. Students fail to answer some questions with appropriate detail. | Large gaps in knowledge are evident. Students fail to answer most questions or fail to provide sufficient detail. |
 | Graphics (10pts) | Graphics are used effectively to explain and reinforce screen text as appropriate. | A few graphics are used, but some areas of the presentation are missing graphics when they could be key to better understanding. | Few or no graphics are used. Team relies too much on text in slides. |
 | Professional (10pts) | Slides have few or no misspellings, grammatical errors, or unprofessional content. No inappropriate memes or things of this nature are present. | A few misspellings, grammatical errors, or unprofessional items are included in the content. | Large reliance on inappropriate memes, multiple misspellings or grammatical errors are evident. |
-| Eye contact and flow (10pts) | Team maintains eye contact with the audience, seldom or never returning to notes, and maintains good presentational flow between team members. | Team refers to some notes or a few hand-off pauses exist, but it does not interrupt the flow of discussion | Team must constantly refer to notes or there are long pauses that demonstrate poor practicing. |
+| flow (10pts) | Team maintains good presentational flow between team members. | Team refers to some notes or a few hand-off pauses exist, but it does not interrupt the flow of discussion | Team must constantly refer to notes or there are long pauses that demonstrate poor practicing. |
+<!--| Eye contact and flow (10pts) | Team maintains eye contact with the audience, seldom or never returning to notes, and maintains good presentational flow between team members. | Team refers to some notes or a few hand-off pauses exist, but it does not interrupt the flow of discussion | Team must constantly refer to notes or there are long pauses that demonstrate poor practicing. |-->
 
 * Note that Demos may include videos if the conditions necessary to replicate the demo cannot be re-created in a live in-class demo.
 
 **Total 70 points.**
+## Research paper
+In addition to the project deliverables associates with your project, you are expected to develop a non-trivial research paper that follows-on from your milestone 2 work and discussions with Dr. Hale. The paper should considered "conference ready" - that is to say it should exhibit a high quality writing product, synthesize concepts from multiple sources, and build cohesive narrative in support of the focus of the research (whatever that may be). It is OK, in this COVID-19 scenario, if elements of the research paper may not be as robust as originally expected. That is to say, if the scope and extent of outcomes in the research fall short of the goal posts set earlier in the semester that is ok. Please work out with Dr. Hale what the plan is prior to the submission to make sure there are no surprises. 
 
-## Graduate student paper
+<!--## Graduate student paper
 If you are a graduate student, you must, in addition to your team work contributions, also complete a research paper about your project work. The research paper may be completed independently or working with other graduate students in your group (where applicable). In either case, the paper must generalize the findings and effort of your project for field/domain specific audiences relevant to your project. Your paper should highlight the most significant outcomes of your project work, properly contextualize the work with existing research in cybersecurity (or other relevant fields) and generalize the findings for broader academic and industrial use. You should keep in mind how your findings could contribute to best practices, ongoing research efforts, and/or practitioners in industry. 
-
-*Warning* This paper is not a simple term paper! Short, poorly written work that does not synthesize concepts or build cohesive narrative will not suffice.
+-->
+<!--
+*Warning* This paper is not a simple term paper! Short, poorly written work that does not synthesize concepts or build cohesive narrative will not suffice.-->
 
 ### Submission materials
 You will submit a paper as a word document (.doc or .docx) to Dr. Hale. Format your paper using the [ACM paper template](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout-.docx). This template is a two column format. Your paper should be no more than 10 pages in length (including figures). It is recommended that you fit your results into the following (fairly standard) paper structure.
