@@ -1,7 +1,6 @@
 # CYBR4580/8950 Final Project Milestone (Milestone 3): Final Delivery Increment, Packaging, and Release
 
-350 Total Points
-(grad students only) separate 100 point assignment for research paper
+450 Total Points
 
 ## Due Date
 <!-- Tuesday December 17th at 5pm (class presentation time)  
