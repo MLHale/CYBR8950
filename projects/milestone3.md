@@ -6,7 +6,7 @@
 <!-- Tuesday December 17th at 5pm (class presentation time)  
 (Grad student only) Research paper due December 17th at 11:59PM -->
 Thursday May 7th (5/7/19) at 11:59pm  
-Presentations Tuesday May 7th (5/2/19) at 5 pm (via zoom) 
+Presentations Thursday May 7th (5/2/19) at 5:30 pm (via zoom) 
 
 ## Overview
 This project milestone tasks you with producing your final major deliverable. Since every project is different the requirements stated below are as stated as generally as possible.
