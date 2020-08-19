@@ -13,7 +13,8 @@ This project milestone tasks you with identifying project requirements, analyzin
   - Define the tasks and expected time to completion
   - Create and submit a gantt chart or other planning chart
 - [Project-oriented risk list](#risk-list) - What could go wrong in the project and why?
-- [Project Methodology](#project-methodology) - What has been done in the literature and what is your technical plan?
+- [Literature Review](#literature-review) - What have others done to inform your idea? What other ideas can you build upon?
+- [Project Methodology](#project-methodology) - What are you going to do? How are you going to do it?
 - [Resources/Technology needed](#resources-needed) - What do you need to be successful?
 - [First Sprint Plan](#first-sprint-plan) - Create the first plan on GitHub Kanban
 - [Note about Teamwork and Group projects](#teamwork)
