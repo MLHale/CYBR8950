@@ -63,9 +63,9 @@ Your gantt chart will be graded as follows:
 | | Meets expectations (9-10) | Some Issues (6-8) | Does not meet expectations (0-5)|
 |---|---|---|---|
 | Identifies major tasks | Major tasks addressing your objectives (from the executive summary) are identified by name. Set of tasks is appropriate to the objectives and time frame. | The set of tasks is not scoped well (too much or too little) or they do not seem to address the objectives well. | No or few tasks are identified - or they are extremely poorly scoped. |
-| Chronologically arranged | Tasks are intelligently arrayed by time. | Tasks are poorly arranged. | Tasks are extremely poorly or not arranged in time. |
+| Chronologically arranged | Tasks are intelligently arrayed by time into milestones. | Tasks are poorly arranged. | Tasks are extremely poorly or not arranged in time. |
 | Achievable | Timeline is expectedly achievable given time frame and team size. | Timeline/task achievability is questionable. | Timeline is completely unrealistic.
-| Displayed in readme file| Your gantt chart is accessible in your GitHub project repo on the same page as the executive summary | N/A | Your gantt chart is not available in your GitHub repo |
+| GitHub Usage| Your tasks are created using the GitHub project interface | N/A | Your tasks are not on GitHub Projects |
 
 **40 points**
 
