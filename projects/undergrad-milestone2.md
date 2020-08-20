@@ -1,11 +1,7 @@
-# CYBR4580/8950 Project Milestone 2: Non-trival Deliverable Increment and Research Paper Outline
+# CYBR4580 Project Milestone 2: Prototype Deliverable
 **Total 420 points**
 
-## Due Date
-March 19th by class time
-
 **Submit a GitHub repo link to canvas**
-**Add Dr. Hale as a collaborator on your GitHub Repo**
 
 ## Overview
 This project milestone tasks you with producing your first major deliverable. Since every project is different the requirements stated below are as generally applicable as possible.
@@ -15,7 +11,6 @@ This project milestone tasks you with producing your first major deliverable. Si
   - Identify tasks achieved from your backlog
   - Document the product increments (an agile term for the things you produce) generated in this milestone
   - Bind tasks, code artifacts, and documentation together
-- [Research Paper Outline](#research-paper-outline) - Draft your Research Paper
 - [Visual understanding (aka diagrams)](#diagrams) - Encapsulate your efforts diagrammatically
 - [Issue Tracking / Planning](#issue-tracking-and-planning) - Stay organized with approrpriate tracking of tasks
 - [Presentation](#presentation) - Present your progress to the class
