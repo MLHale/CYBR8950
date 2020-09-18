@@ -3,13 +3,13 @@ Structured abstracts are a certain type of annotated bibliography that uses a st
 
 The following three slides do a nice job of characterizing the process of structured abstract generation. The slides were created by Dr. Robin Gandhi in conjunction with the [Cybersecurity Skills Journal](https://www.csj.nationalcyberwatch.org/).
 
-![structured abstracts](./abstract1.png)
+![structured abstracts](../modules/research-process/abstract1.png)
 > Img credit: Robin Gandhi & [Cybersecurity Skills Journal](https://www.csj.nationalcyberwatch.org/) 2019
 
-![structured abstracts](./abstract2.png)
+![structured abstracts](../modules/research-process/abstract2.png)
 > Img credit: Robin Gandhi & [Cybersecurity Skills Journal](https://www.csj.nationalcyberwatch.org/) 2019
 
-![structured abstracts](./abstract3.png)
+![structured abstracts](../modules/research-process/abstract3.png)
 > Img credit: Dr. Robin Gandhi & [Cybersecurity Skills Journal](https://www.csj.nationalcyberwatch.org/) 2019
 
 ## Additional resources
