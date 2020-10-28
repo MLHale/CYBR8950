@@ -74,22 +74,6 @@ Your team will be graded as follows:
 
 **Total 120 points.**
 
-## Research Paper Outline
-You should focus, as part of this milestone, on drafting an outline of your research paper. The emphasis of this process is to prepare an outline early enough in the semester to work with Dr. Hale to refine it into your eventual paper. Even though you may not know all of your results and findings yet, you should be able to draft the skeleton of the paper and start drafting sections of the paper such as your literature review and methodology.
-
-### Submission materials
-Submit a draft document containing your outline on canvas using the milestone 2 project assignment. The outline can be in any document format, but .docx is preferable. 
-
-### Grading Criteria
-Your outline will not be graded using a rubric, but it is expected to meet the following requirements. 
-
-1. Contains a well-written 500 word or less abstract that previews the argument to be made in the paper.
-1. Has defined section headings for each of the sections you expect to have in your paper
-1. Has a bulleted list of talking points you expect to fall within each section
-1. Section headings and bullets build a narrative flow that is compatibile with your main research argument.
-
-**Total: 80 points**
-
 ## Diagrams
 In addition to the project documentation, you should produce a set of process or conceptual diagrams suited to your project. This could be a set of activity diagrams for penetration-testing oriented projects, it could be software architecture diagrams for development-oriented projects, or it could be a process/conceptual model for other projects.
 
@@ -149,6 +133,20 @@ Submit your slides to Dr. Hale by the presentation days. Submit them by posting 
 You will be graded by a presentation rubric.
 
 **Total 60 points.**
+
+## Graduate student Research Paper Outline
+You should focus, as part of this milestone, on drafting an outline of your research paper. The emphasis of this process is to prepare an outline early enough in the semester to work with Dr. Hale to refine it into your eventual paper. Even though you may not know all of your results and findings yet, you should be able to draft the skeleton of the paper and start drafting sections of the paper such as your literature review and methodology.
+
+### Submission materials
+Submit a draft document containing your outline on canvas using the milestone 2 project assignment. The outline can be in any document format, but .docx is preferable. 
+
+### Grading Criteria
+Your outline will not be graded using a rubric, but it is expected to meet the following requirements. 
+
+1. Contains a well-written 500 word or less abstract that previews the argument to be made in the paper.
+1. Has defined section headings for each of the sections you expect to have in your paper
+1. Has a bulleted list of talking points you expect to fall within each section
+1. Section headings and bullets build a narrative flow that is compatibile with your main research argument.
 
 #### License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">CYBER4580 and related works</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://faculty.ist.unomaha.edu/mlhale" property="cc:attributionName" rel="cc:attributionURL">Matt Hale</a> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
