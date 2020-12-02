@@ -116,7 +116,7 @@ For this submission, you should submit your final report as a `.md` file called 
 **Total 200 points.**
 
 ## Presentation
-You will be expected to present your Final Milestone to the class on our final day. There may be external guests present as well. A project presentation agenda will be released before the presentation day. Project teams will have 25 minutes to present, this time should include a few minutes (2-5 mins) to address questions. 
+You will be expected to present your Final Milestone to the class via a recorded videa. The video will be due on the day of our official final (published on the UNO website). The video may be watched by external guests - so please address an audience beyond just the instructor. Videos should be no longer than 30 minutes.
 
 Your presentation should cover:
  * High level goals, initial scope, and adjustment to scope (keep it succinct)
@@ -125,7 +125,7 @@ Your presentation should cover:
  * Demos of any relevant tooling / code / attacks / etc that resulted from the work and/or findings
  
 ### Submission Materials
-Submit your slides to Dr Hale as part of your overall submission on the day of the presentation. Submit them by uploading them in your project github repository and linking to canvas.
+Submit your slides on canvas as part of your overall submission and upload your video via vidgred. Also upload your presentation materials to your github repo.
 
 ### Grading Criteria
 Presentations will be graded using the following rubric. Each student on a team is expected to contribute to and help deliver the presentation.
