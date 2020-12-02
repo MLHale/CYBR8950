@@ -1,12 +1,5 @@
 # CYBR4580/8950 Final Project Milestone (Milestone 3): Final Delivery Increment, Packaging, and Release
 
-450 Total Points
-
-## Due Date
-<!-- Tuesday December 17th at 5pm (class presentation time)  
-(Grad student only) Research paper due December 17th at 11:59PM -->
-Thursday May 7th (5/7/19) at 11:59pm  
-Presentations Thursday May 7th (5/2/19) at 5:30 pm (via zoom) 
 
 ## Overview
 This project milestone tasks you with producing your final major deliverable. Since every project is different the requirements stated below are as stated as generally as possible.
@@ -151,7 +144,7 @@ Presentations will be graded using the following rubric. Each student on a team 
 * Note that Demos may include videos if the conditions necessary to replicate the demo cannot be re-created in a live in-class demo.
 
 **Total 70 points.**
-## Research paper
+## (Grad-student-only) Research paper
 In addition to the project deliverables associates with your project, you are expected to develop a non-trivial research paper that follows-on from your milestone 2 work and discussions with Dr. Hale. The paper should considered "conference ready" - that is to say it should exhibit a high quality writing product, synthesize concepts from multiple sources, and build cohesive narrative in support of the focus of the research (whatever that may be). It is OK, in this COVID-19 scenario, if elements of the research paper may not be as robust as originally expected. That is to say, if the scope and extent of outcomes in the research fall short of the goal posts set earlier in the semester that is ok. Please work out with Dr. Hale what the plan is prior to the submission to make sure there are no surprises. 
 
 <!--## Graduate student paper
