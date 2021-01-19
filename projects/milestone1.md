@@ -166,14 +166,19 @@ You will be graded as follows:
 |Conforms to structure| Entries follow tabular format specified. Each resource has an assigned team member investigating it. | Some issues following structure. | Table not formatted or many issues.|
 
 **20 points**
-## First Sprint Plan
-This milestone represents the first step forward in your capstone project. As part of that effort, you need to plan your first real sprint.
+## Project management Organization
+This milestone represents the first step forward in your capstone project. We will use Sprint / Agile-like methods to track your progress and organize your project management artifacts. In particular, you will use GitHub Issues to do this.
 
 ### Submission materials
-This part of the milestone is strictly captured by GitHub Projects (its a `Kanban` board technology like Trello). In your Kanban board, create a board following the structure discussed in class (see Lecture 4). Use this structure to identify the tasks that you will tackle in your first sprint. Put those tasks in the **Sprint To-do** category.
+This part of the milestone is strictly captured by the GitHub Issue tracker and its linkages to the Project Kanban board. For this proposal milestone, you should create issues for the first tasks you are investigating. Don't be afraid to break complex tasks down into sub tasks. Refer to the issue tracking tutorial for more information about how to do this.
 
 ### Grading Criteria
-No fancy grading rubric here. You will receive points for participating (as measured by the activity flow) in GitHub. If you are not taking tasks or helping to manage the project managment space, chances are you won't get these points.
+You will be graded as follows:
+
+|| Meets expectations (9-10) | Some Issues (6-8) | Does not meet expectations (0-5)|
+|---|---|---|---|
+|Coverage| Relevant issues are created in the issue tracker. | Issues do not capture initial tasking. | Few or no issues are present. |
+|Labeling and assignment| Issues use GitHub tags and are assigned to a team member | Some issues are labeled and assigned. | Few or no labels and assignments are used.|
 
 **20 points**
 
@@ -181,7 +186,7 @@ No fancy grading rubric here. You will receive points for participating (as meas
 You will be expected to present your Milestone 1 proposal to the class. It is important that you use this time to inform your classmates and get feedback. Things to be considered are 1) conveying a sense of interest and excitement about your project, 2) soliciting feedback from peers that might be useful for development or refinement of the project, and 3) presenting your methodology and scope to get recommendations from peers and the instructor.
 
 ### Submission Materials
-Submit your slides to Dr. Hale on slack by posting and pinning them in your team slack channel.
+You will record your presentation as a video using VidGrid. Post the video to the canvas submission page AND in the slack `#sp-2021-general` chat. Also submit your slides on canvas.
 
 ### Grading Criteria
 You will be graded by a presentation rubric on canvas.
@@ -194,7 +199,7 @@ Lastly, it is important that you realize you are working on a TEAM (except for t
 Your final grade on the milestone is computed as follows:
 **team_grade** * **participation_factor** = **individual_grade**
 
-**participation_factor** is a number from .4 to 1 that is based on four measured participation factors:
+**participation_factor** is a number from 0 to 1 that is based on four measured participation factors:
 
 1. Contribution to the GitHub repo
 1. Activity in the slack channel for your project
@@ -202,7 +207,7 @@ Your final grade on the milestone is computed as follows:
 1. In-class participation and participation in team meetings.
 1. Team evaluations
 
-If you do your work and participate, you will get the full team poitns (**participation_factor**=1), if you don't, you will get as little as 40% of the team points. This means that you can **FAIL** even if your team succeeds. - So don't sluff off.
+If you do your work and participate, you will get the full team points (**participation_factor**=1), if you don't do anything, you will get 0% of the team points, if you aren't doing enough you will suffer a correspondingly appropriate penalty to your grade. This means that you can **FAIL** even if your team succeeds - so don't sluff off and expect the team to carry you.
 
 
 ## License
