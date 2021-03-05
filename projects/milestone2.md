@@ -1,10 +1,6 @@
-# CYBR4580/8950 Project Milestone 2: Non-trival Deliverable Increment and Research Paper Outline
-**Total 420 points**
+# CYBR4580/8950 Project Milestone 2: Prototype and Research Paper Outline
 
-## Due Date
-March 19th by class time
-
-**Submit a GitHub repo link to canvas**
+**Submit on canvas, make sure to include a link to your github repo**
 **Add Dr. Hale as a collaborator on your GitHub Repo**
 
 ## Overview
@@ -41,7 +37,7 @@ The bulk of the project work is centered on realizing the methodology you define
 
 Be productive, work towards completing your process, and document what you do.
 
-Documentation towards project realization will come in the form an intermediate project report. Your project report should be placed on GitHub in the same repository you used for Milestone 1. Create a new markdown file that contains the following.
+Documentation towards project realization will come in the form an intermediate project report. Your project report should be placed on GitHub in the same repository you used for Milestone 1. Create a new markdown file, called prototype-progress-report.md that contains the following.
 
 ```markdown
 # Progress Report (insert date here)
@@ -83,7 +79,7 @@ Your team will be graded as follows:
 You should focus, as part of this milestone, on drafting an outline of your research paper. The emphasis of this process is to prepare an outline early enough in the semester to work with Dr. Hale to refine it into your eventual paper. Even though you may not know all of your results and findings yet, you should be able to draft the skeleton of the paper and start drafting sections of the paper such as your literature review and methodology.
 
 ### Submission materials
-Submit a draft document containing your outline on canvas using the milestone 2 project assignment. The outline can be in any document format, but .docx is preferable. 
+Submit a draft document containing your outline on canvas. The outline can be in any document format, but .docx is preferable. Also include your outline on your github repository.
 
 ### Grading Criteria
 Your outline will not be graded using a rubric, but it is expected to meet the following requirements. 
@@ -93,7 +89,7 @@ Your outline will not be graded using a rubric, but it is expected to meet the f
 1. Has a bulleted list of talking points you expect to fall within each section
 1. Section headings and bullets build a narrative flow that is compatibile with your main research argument.
 
-**Total: 80 points**
+**Total: 100 points**
 
 ## Diagrams
 In addition to the project documentation, you should produce a set of process or conceptual diagrams suited to your project. This could be a set of activity diagrams for penetration-testing oriented projects, it could be software architecture diagrams for development-oriented projects, or it could be a process/conceptual model for other projects.
@@ -145,13 +141,13 @@ This part of the milestone is strictly captured by your Kanban board and/our iss
 **Total 40 points.**
 
 ## Presentation
-You will be expected to present your Milestone 2 achievements to the class following the deadline. It is important that you use this time to both inform your classmates of your activities and to practice for your final presentation. Things to be considered are 1) conveying a sense of interest and excitement about your project 2) cool product demos, and 3) interesting findings of conducting your projects.
+You will be expected to present your Milestone 2 achievements to the class and your sponsor in the form of a video. It is important that you use this time to both inform your classmates and sponsor of your activities and to practice for your final presentation. Things to be considered are 1) conveying a sense of interest and excitement about your project 2) cool product demos, and 3) interesting intermediate findings of conducting your projects.
 
 ### Submission Materials
-Submit your slides to Dr. Hale by the presentation days. Submit them by posting and pinning them in your team slack channel and via canvas.
+Submit your slides on Canvas and post your video using VidGrid to canvas alongside your paper outline and respository link. Also post the link to your vidGrid video on our slack channel - so that your peers can see it
 
 ### Grading Criteria
-You will be graded by a presentation rubric.
+You will be graded by a presentation rubric posted on canvas.
 
 **Total 60 points.**
 
