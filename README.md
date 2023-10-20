@@ -97,8 +97,8 @@ Students in this track will bid on, and be asked to perform research in directed
 #### Track 1: Student-team created projects
 In this track students will select a project from those projects pitched in the first week of class. Projects will be curated from students by Dr. Hale.
 
-#### Track 2: Industry partners or UNO organizations
-In this track students will select or be assigned an existing product or system to develop or evaluate. Projects may originate from external local companies or internal UNO organizations.
+#### Track 2: Industry partners / Community or UNO organizations
+In this track students will select or be assigned an existing product or system to develop or evaluate. Projects may originate from external local companies, internal UNO organizations, or external community partners.
 
 ### Project Milestones
 * [Capstone Pitches](./projects/pitch.md) - Due Jan. 23 by class time. Submission on Canvas.  
