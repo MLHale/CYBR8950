@@ -183,7 +183,7 @@ You will be graded as follows:
 You will be expected to present your Milestone 1 proposal to the class. It is important that you use this time to inform your classmates and get feedback. Things to be considered are 1) conveying a sense of interest and excitement about your project, 2) soliciting feedback from peers that might be useful for development or refinement of the project, and 3) presenting your methodology and scope to get recommendations from peers and the instructor.
 
 ### Submission Materials
-You will record your presentation as a video using VidGrid. Post the video to the canvas submission page AND in the slack `#sp-2021-general` chat. Also submit your slides on canvas.
+You will record your presentation as a video using VidGrid. Post the video to the canvas submission page AND in the slack `#general` chat. Also submit your slides on canvas.
 
 ### Grading Criteria
 You will be graded by a presentation rubric on canvas.
