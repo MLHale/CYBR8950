@@ -2,7 +2,7 @@
 This repository contains a digitized version of the course content for the CYBR 4580/8950 Certification and Accreditation capstone course at the University of Nebraska at Omaha.
 
 ## Viewing these materials
-The class materials are best viewed at [https://mlhale.github.io/CYBR4580-8950/](https://mlhale.github.io/CYBR4580-8950/)
+The class materials are best viewed at [https://mlhale.github.io/CYBR8950/](https://mlhale.github.io/CYBR8950/)
 
 ## Overview
 In this course, students will extend and apply their knowledge, accumulated from their undergraduate/graduate studies, towards defining, implementing, and assessing secured information systems. Students will demonstrate their ability to specify, apply, and assess different types of countermeasures at different points in a system or enterprise.
