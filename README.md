@@ -54,25 +54,25 @@ Go to [https://cybr-4580-8950.slack.com](https://cybr-4580-8950.slack.com) and u
 
 ## Tentative Class Schedule
 
-| Dates | Week | Activity|
-|-------|------|---------|
-| January 16 | 1 | Course introduction, ideation, form pitches.  |
-| January 23 | 2 | [Intro to Research](/modules/research-process/README.md), short pitch presentations, form teams, begin working on full proposal (Milestone 1) |
-| January 30 | 3 | Project management tooling lab. Team meetings. Work on proposal (milestone 1). |
-| February 6 | 4 | Work on proposal (milestone 1). |
-| February 13 | 5 | Milestone 1 due, 20 minute presentations + 5 minute Q/A, random order. Milestone 2 assigned.  |
-| February 20 | 6 | Work on Milestone 2. Team meetings. |
-| February 27 | 7 | Work on Milestone 2. Team meetings. |
-| March 5 | 8 | Work on Milestone 2. Team meetings. |
-| March 12 | 9 | Work on Milestone 2. Team meetings.  |
-| March 19 | 10 | Milestone 2 due, 25minute presentations + 5 minute Q/A, random order. Milestone 3 assigned. |
-| March 26 | 11 | No class - Spring break. |
-| April 2 | 12 | Work on Milestone 3. Team meetings. |
-| April 9 | 13 | Work on Milestone 3. Team meetings. |
-| April 16 | 14 | Work on Milestone 3. Team meetings. |
-| April 23 | 15 | Work on Milestone 3. Team meetings. |
-| April 30 | 16 | Finish Milestone 3. Team meetings. (Prep week) |
-| May 7 | 17 | Milestone 3 Due. Final Presentations (Start at 5:30 PM) |
+| Week | Activity|
+|------|---------|
+| 1 | Course introduction, ideation, form pitches.  |
+| 2 | [Intro to Research](/modules/research-process/README.md), short pitch presentations, form teams, begin working on full proposal (Milestone 1) |
+| 3 | Project management tooling lab. Team meetings. Work on proposal (milestone 1). |
+| 4 | Work on proposal (milestone 1). |
+| 5 | Milestone 1 due, 20 minute presentations + 5 minute Q/A, random order. Milestone 2 assigned.  |
+| 6 | Work on Milestone 2. Team meetings. |
+| 7 | Work on Milestone 2. Team meetings. |
+| 8 | Work on Milestone 2. Team meetings. |
+| 9 | Work on Milestone 2. Team meetings.  |
+| 10 | Milestone 2 due, 25minute presentations + 5 minute Q/A, random order. Milestone 3 assigned. |
+| 11 | No class - Spring break. |
+| 12 | Work on Milestone 3. Team meetings. |
+| 13 | Work on Milestone 3. Team meetings. |
+| 14 | Work on Milestone 3. Team meetings. |
+| 15 | Work on Milestone 3. Team meetings. |
+| 16 | Finish Milestone 3. Team meetings. (Prep week) |
+| 17 | Milestone 3 Due. |
 
 ## Location
 All classroom activities will take place in PKI room 164 (or via Zoom for the 820 section) unless otherwise noted ahead of time. Due to the nature of the course, often meeting rooms will be used for the individual teams meeting.
@@ -101,10 +101,10 @@ In this track students will select a project from those projects pitched in the 
 In this track students will select or be assigned an existing product or system to develop or evaluate. Projects may originate from external local companies, internal UNO organizations, or external community partners.
 
 ### Project Milestones
-* [Capstone Pitches](./projects/pitch.md) - Due Jan. 23 by class time. Submission on Canvas.  
-[Capstone Milestone 1 rubric](./projects/milestone1.md) - Due Feb. 13th by class time. Submit link to Canvas, files to GitHub.
-* [Capstone Milestone 2 rubric](./projects/milestone2.md) - Due March 19th by class time. Submit link to Canvas, files to GitHub.
-* [Capstone Milestone 3 rubric (final)](./projects/milestone3.md) - Due May 7th by class time. Submit link to Canvas, files to GitHub.
+* [Capstone Pitches](./projects/pitch.md)
+[Capstone Milestone 1 rubric](./projects/milestone1.md)
+* [Capstone Milestone 2 rubric](./projects/milestone2.md)
+* [Capstone Milestone 3 rubric (final)](./projects/milestone3.md) 
 
 #### Evaluation form
 Please use the evaluation form below to assess your teammates.
