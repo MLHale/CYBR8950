@@ -116,7 +116,7 @@ For this submission, you should submit your final report as a `.md` file called 
 **Total 200 points.**
 
 ## Presentation
-You will be expected to present your Final Milestone to the class via a recorded videa. The video will be due on the day of our official final (published on the UNO website). The video may be watched by external guests - so please address an audience beyond just the instructor. Videos should be no longer than 30 minutes.
+You will be expected to present your Final Milestone to the class during our final time (Monday, May 12, 2025 5:00pm-7:00pm). Please address your presentation to an audience beyond just the instructor. Presentation length will be no longer than 15 minutes per team (since we have 7 teams). Please allow for at least 2 minutes of questions at the end.
 
 Your presentation should cover:
  * High level goals, initial scope, and adjustment to scope (keep it succinct)
