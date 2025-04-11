@@ -12,7 +12,7 @@ This project milestone tasks you with producing your final major deliverable. Si
   - The Final report should be non-trivial and list out all accomplishments across the project, pulling together the plan from milestone 1 and the deliverables achieved in Milestones 2 and 3.
   - The Final report should be delivered as-if you were preparing it for release to your customer. This means including sufficient supporting documentation to understand and fully interpret your results, install needed tooling, etc.
 - [Presentation](#presentation) - Present your project to the class, your external partner (where applicable), and others in Cybersecurity
-- [Graduate student paper](#graduate-student-paper) - If you are a graduate student, you must complete the additional paper as specified below.
+- [Research paper](#research-paper) - Complete the paper outlined in Milestone 2.
 
 
 ## Project realization Progress report
@@ -151,7 +151,7 @@ In addition to the project deliverables associates with your project, you are ex
 *Warning* This paper is not a simple term paper! Short, poorly written work that does not synthesize concepts or build cohesive narrative will not suffice.
 
 ### Submission materials
-You will submit a paper as a word document (.doc or .docx) to Dr. Hale. Format your paper using the [ACM paper template](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout.docx). This template is a two column format. Your paper should be no more than 10 pages in length (including figures). It is recommended that you fit your results into the following (fairly standard) paper structure.
+You will submit a paper as a word document (.doc or .docx) to Dr. Hale. Format your paper using the [ACM paper template](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout.docx) [or another similar format relevant for your field). This template is a two column format. Your paper should be no more than 10 pages in length (including figures). It is recommended that you fit your results into the following (fairly standard) paper structure.
 
 - Abstract
 - Introduction
